@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   lastUpdatedAtString: 2020-10-29T20:55:56.896-04:00
   initializedAtString: 2020-10-29T18:56:11.469-04:00
@@ -20,6 +21,10 @@ MonoBehaviour:
   lastUpdatedAtString: 2020-10-29T19:15:27.210-04:00
   initializedAtString: 2020-10-29T19:15:27.210-04:00
 >>>>>>> Stashed changes
+=======
+  lastUpdatedAtString: 2020-10-30T08:50:07.436-04:00
+  initializedAtString: 2020-10-30T08:50:07.436-04:00
+>>>>>>> master
   currentGitRemote:
     name: origin
     url: https://github.com/pkim1334/PandemicTrails.git
