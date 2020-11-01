@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-11-01T11:37:48.107-05:00
-  initializedAtString: 2020-11-01T09:40:26.394-05:00
+  lastUpdatedAtString: 2020-11-01T15:14:49.270-05:00
+  initializedAtString: 2020-11-01T13:14:25.779-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/pkim1334/PandemicTrails.git

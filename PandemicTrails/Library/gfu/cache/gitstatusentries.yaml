@@ -13,18 +13,3069 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-01T11:38:06.332-05:00
-  initializedAtString: 2020-11-01T09:41:02.473-05:00
+  lastUpdatedAtString: 2020-11-01T15:14:54.608-05:00
+  initializedAtString: 2020-11-01T13:14:28.905-05:00
   entries:
+  - path: PandemicTrails\Assets\inventory tings.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\inventory
+      tings.meta
+    projectPath: Assets\inventory tings.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\inventory tings\CloseButton.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\inventory
+      tings\CloseButton.png.meta
+    projectPath: Assets\inventory tings\CloseButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\inventory tings\Icon.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\inventory
+      tings\Icon.png
+    projectPath: Assets\inventory tings\Icon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\inventory tings\Icon.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\inventory
+      tings\Icon.png.meta
+    projectPath: Assets\inventory tings\Icon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\inventory tings\Inventory Slot.prefab
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\inventory
+      tings\Inventory Slot.prefab
+    projectPath: Assets\inventory tings\Inventory Slot.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\inventory tings\Inventory Slot.prefab.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\inventory
+      tings\Inventory Slot.prefab.meta
+    projectPath: Assets\inventory tings\Inventory Slot.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\inventory tings\Panel.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\inventory
+      tings\Panel.png.meta
+    projectPath: Assets\inventory tings\Panel.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\inventory tings\Placeholder01.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\inventory
+      tings\Placeholder01.png.meta
+    projectPath: Assets\inventory tings\Placeholder01.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\InventoryUI.cs
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\InventoryUI.cs
+    projectPath: Assets\InventoryUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\InventoryUI.cs.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\InventoryUI.cs.meta
+    projectPath: Assets\InventoryUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems.meta
+    projectPath: Assets\MinItems.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor.meta
+    projectPath: Assets\MinItems\Armor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\DarknessBoots.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\DarknessBoots.png.meta
+    projectPath: Assets\MinItems\Armor\DarknessBoots.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\DarknessChestplate.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\DarknessChestplate.png.meta
+    projectPath: Assets\MinItems\Armor\DarknessChestplate.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\DarknessHelmet.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\DarknessHelmet.png.meta
+    projectPath: Assets\MinItems\Armor\DarknessHelmet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\DarknessLeggings.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\DarknessLeggings.png.meta
+    projectPath: Assets\MinItems\Armor\DarknessLeggings.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\EvilBoots.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\EvilBoots.png.meta
+    projectPath: Assets\MinItems\Armor\EvilBoots.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\EvilChestplate.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\EvilChestplate.png.meta
+    projectPath: Assets\MinItems\Armor\EvilChestplate.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\EvilHelmet.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\EvilHelmet.png.meta
+    projectPath: Assets\MinItems\Armor\EvilHelmet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\EvilLeggings.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\EvilLeggings.png.meta
+    projectPath: Assets\MinItems\Armor\EvilLeggings.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\NormalBoots.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\NormalBoots.png.meta
+    projectPath: Assets\MinItems\Armor\NormalBoots.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\NormalChestplate.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\NormalChestplate.png.meta
+    projectPath: Assets\MinItems\Armor\NormalChestplate.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\NormalHelmet.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\NormalHelmet.png.meta
+    projectPath: Assets\MinItems\Armor\NormalHelmet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\NormalLeggings.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\NormalLeggings.png.meta
+    projectPath: Assets\MinItems\Armor\NormalLeggings.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\OldBoots.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\OldBoots.png.meta
+    projectPath: Assets\MinItems\Armor\OldBoots.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\OldChestplate.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\OldChestplate.png.meta
+    projectPath: Assets\MinItems\Armor\OldChestplate.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\OldHelmet.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\OldHelmet.png.meta
+    projectPath: Assets\MinItems\Armor\OldHelmet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Armor\OldLeggings.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Armor\OldLeggings.png.meta
+    projectPath: Assets\MinItems\Armor\OldLeggings.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes.meta
+    projectPath: Assets\MinItems\Clothes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Feets.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Feets.meta
+    projectPath: Assets\MinItems\Clothes\Feets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Feets\HighHeelShoes.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Feets\HighHeelShoes.png.meta
+    projectPath: Assets\MinItems\Clothes\Feets\HighHeelShoes.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Feets\Shoes.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Feets\Shoes.png.meta
+    projectPath: Assets\MinItems\Clothes\Feets\Shoes.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Feets\Slippers.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Feets\Slippers.png.meta
+    projectPath: Assets\MinItems\Clothes\Feets\Slippers.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Feets\Socks.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Feets\Socks.png.meta
+    projectPath: Assets\MinItems\Clothes\Feets\Socks.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Head and Face.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Head
+      and Face.meta
+    projectPath: Assets\MinItems\Clothes\Head and Face.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Head and Face\BaseballCap.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Head
+      and Face\BaseballCap.png.meta
+    projectPath: Assets\MinItems\Clothes\Head and Face\BaseballCap.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Head and Face\Crown.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Head
+      and Face\Crown.png.meta
+    projectPath: Assets\MinItems\Clothes\Head and Face\Crown.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Head and Face\CrownAlt.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Head
+      and Face\CrownAlt.png.meta
+    projectPath: Assets\MinItems\Clothes\Head and Face\CrownAlt.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Head and Face\Glasses.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Head
+      and Face\Glasses.png.meta
+    projectPath: Assets\MinItems\Clothes\Head and Face\Glasses.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Head and Face\Hat.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Head
+      and Face\Hat.png.meta
+    projectPath: Assets\MinItems\Clothes\Head and Face\Hat.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Head and Face\SantaHat.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Head
+      and Face\SantaHat.png.meta
+    projectPath: Assets\MinItems\Clothes\Head and Face\SantaHat.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Head and Face\SunGlasses.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Head
+      and Face\SunGlasses.png.meta
+    projectPath: Assets\MinItems\Clothes\Head and Face\SunGlasses.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Legs.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Legs.meta
+    projectPath: Assets\MinItems\Clothes\Legs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Legs\Overall.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Legs\Overall.png.meta
+    projectPath: Assets\MinItems\Clothes\Legs\Overall.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Legs\PantsJeans.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Legs\PantsJeans.png.meta
+    projectPath: Assets\MinItems\Clothes\Legs\PantsJeans.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Legs\Shorts.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Legs\Shorts.png.meta
+    projectPath: Assets\MinItems\Clothes\Legs\Shorts.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Legs\Skirt.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Legs\Skirt.png.meta
+    projectPath: Assets\MinItems\Clothes\Legs\Skirt.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Torso.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Torso.meta
+    projectPath: Assets\MinItems\Clothes\Torso.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Torso\Hoodie.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Torso\Hoodie.png.meta
+    projectPath: Assets\MinItems\Clothes\Torso\Hoodie.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Torso\Shirt.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Torso\Shirt.png.meta
+    projectPath: Assets\MinItems\Clothes\Torso\Shirt.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Torso\ShortDress.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Torso\ShortDress.png.meta
+    projectPath: Assets\MinItems\Clothes\Torso\ShortDress.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Clothes\Torso\TShirt.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Clothes\Torso\TShirt.png.meta
+    projectPath: Assets\MinItems\Clothes\Torso\TShirt.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras.meta
+    projectPath: Assets\MinItems\Extras.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Bone.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Bone.png.meta
+    projectPath: Assets\MinItems\Extras\Bone.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Chest.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Chest.png.meta
+    projectPath: Assets\MinItems\Extras\Chest.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Coin.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Coin.png.meta
+    projectPath: Assets\MinItems\Extras\Coin.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\FishFood.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\FishFood.png.meta
+    projectPath: Assets\MinItems\Extras\FishFood.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\LightBulb.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\LightBulb.png.meta
+    projectPath: Assets\MinItems\Extras\LightBulb.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\LightBulbAlt.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\LightBulbAlt.png.meta
+    projectPath: Assets\MinItems\Extras\LightBulbAlt.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Lighter.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Lighter.png.meta
+    projectPath: Assets\MinItems\Extras\Lighter.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\LighterOn.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\LighterOn.png.meta
+    projectPath: Assets\MinItems\Extras\LighterOn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Lintern.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Lintern.png.meta
+    projectPath: Assets\MinItems\Extras\Lintern.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\LinternOld.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\LinternOld.png.meta
+    projectPath: Assets\MinItems\Extras\LinternOld.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Lock.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Lock.png.meta
+    projectPath: Assets\MinItems\Extras\Lock.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\LockOpen.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\LockOpen.png.meta
+    projectPath: Assets\MinItems\Extras\LockOpen.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Memopad.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Memopad.png.meta
+    projectPath: Assets\MinItems\Extras\Memopad.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Pencil.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Pencil.png.meta
+    projectPath: Assets\MinItems\Extras\Pencil.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Pillow.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Pillow.png.meta
+    projectPath: Assets\MinItems\Extras\Pillow.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Skull.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Skull.png.meta
+    projectPath: Assets\MinItems\Extras\Skull.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\SprayCan.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\SprayCan.png.meta
+    projectPath: Assets\MinItems\Extras\SprayCan.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Extras\Torch.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Extras\Torch.png.meta
+    projectPath: Assets\MinItems\Extras\Torch.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food.meta
+    projectPath: Assets\MinItems\Food.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\BoneMeat.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\BoneMeat.png.meta
+    projectPath: Assets\MinItems\Food\BoneMeat.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Candy.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Candy.meta
+    projectPath: Assets\MinItems\Food\Candy.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Candy\Candy.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Candy\Candy.png.meta
+    projectPath: Assets\MinItems\Food\Candy\Candy.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Candy\CottonCandy.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Candy\CottonCandy.png.meta
+    projectPath: Assets\MinItems\Food\Candy\CottonCandy.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Candy\Lollipop.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Candy\Lollipop.png.meta
+    projectPath: Assets\MinItems\Food\Candy\Lollipop.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\ChickenLeg.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\ChickenLeg.png.meta
+    projectPath: Assets\MinItems\Food\ChickenLeg.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\ConservedFood.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\ConservedFood.png.meta
+    projectPath: Assets\MinItems\Food\ConservedFood.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Drinks.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Drinks.meta
+    projectPath: Assets\MinItems\Food\Drinks.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Drinks\ChocolateMilk.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Drinks\ChocolateMilk.png.meta
+    projectPath: Assets\MinItems\Food\Drinks\ChocolateMilk.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Drinks\GlassWater.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Drinks\GlassWater.png.meta
+    projectPath: Assets\MinItems\Food\Drinks\GlassWater.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Drinks\Mate.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Drinks\Mate.png.meta
+    projectPath: Assets\MinItems\Food\Drinks\Mate.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Drinks\WaterBottle.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Drinks\WaterBottle.png.meta
+    projectPath: Assets\MinItems\Food\Drinks\WaterBottle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Drinks\WoodCupEmpty.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Drinks\WoodCupEmpty.png.meta
+    projectPath: Assets\MinItems\Food\Drinks\WoodCupEmpty.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Drinks\WoodCupFull.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Drinks\WoodCupFull.png.meta
+    projectPath: Assets\MinItems\Food\Drinks\WoodCupFull.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Empanada.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Empanada.png.meta
+    projectPath: Assets\MinItems\Food\Empanada.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fish.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fish.png.meta
+    projectPath: Assets\MinItems\Food\Fish.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Flan.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Flan.png.meta
+    projectPath: Assets\MinItems\Food\Flan.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables\Apple.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables\Apple.png.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables\Apple.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables\BittenApple.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables\BittenApple.png.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables\BittenApple.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables\BittenWatermelonSlice.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables\BittenWatermelonSlice.png.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables\BittenWatermelonSlice.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables\Potato.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables\Potato.png.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables\Potato.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables\Pumpkin.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables\Pumpkin.png.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables\Pumpkin.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables\PumpkinHalloween.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables\PumpkinHalloween.png.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables\PumpkinHalloween.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables\Tomato.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables\Tomato.png.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables\Tomato.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables\Watermelon.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables\Watermelon.png.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables\Watermelon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Fruits and Vegetables\WatermelonSlice.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Fruits
+      and Vegetables\WatermelonSlice.png.meta
+    projectPath: Assets\MinItems\Food\Fruits and Vegetables\WatermelonSlice.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Hamburger.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Hamburger.png.meta
+    projectPath: Assets\MinItems\Food\Hamburger.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\HotDog.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\HotDog.png.meta
+    projectPath: Assets\MinItems\Food\HotDog.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Meat.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Meat.png.meta
+    projectPath: Assets\MinItems\Food\Meat.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Food\Pizza.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Food\Pizza.png.meta
+    projectPath: Assets\MinItems\Food\Pizza.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies.meta
+    projectPath: Assets\MinItems\Hobbies.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Art.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Art.meta
+    projectPath: Assets\MinItems\Hobbies\Art.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Art\Brush.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Art\Brush.png.meta
+    projectPath: Assets\MinItems\Hobbies\Art\Brush.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Art\Pallete.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Art\Pallete.png.meta
+    projectPath: Assets\MinItems\Hobbies\Art\Pallete.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Art\Paper.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Art\Paper.png.meta
+    projectPath: Assets\MinItems\Hobbies\Art\Paper.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments\Banjo.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments\Banjo.png.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments\Banjo.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments\Bongos.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments\Bongos.png.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments\Bongos.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments\Drum.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments\Drum.png.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments\Drum.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments\Guitar.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments\Guitar.png.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments\Guitar.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments\Keytar.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments\Keytar.png.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments\Keytar.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments\Maraca.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments\Maraca.png.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments\Maraca.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments\Pandero.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments\Pandero.png.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments\Pandero.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments\Triangle.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments\Triangle.png.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments\Triangle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Hobbies\Instruments\Trumpet.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Hobbies\Instruments\Trumpet.png.meta
+    projectPath: Assets\MinItems\Hobbies\Instruments\Trumpet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic.meta
+    projectPath: Assets\MinItems\Magic.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Book.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Book.png.meta
+    projectPath: Assets\MinItems\Magic\Book.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\BookOpen.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\BookOpen.png.meta
+    projectPath: Assets\MinItems\Magic\BookOpen.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Broom.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Broom.png.meta
+    projectPath: Assets\MinItems\Magic\Broom.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\MagicianHat.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\MagicianHat.png.meta
+    projectPath: Assets\MinItems\Magic\MagicianHat.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\MagicianWand.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\MagicianWand.png.meta
+    projectPath: Assets\MinItems\Magic\MagicianWand.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Potions.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Potions.meta
+    projectPath: Assets\MinItems\Magic\Potions.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Potions\DamagePotion.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Potions\DamagePotion.png.meta
+    projectPath: Assets\MinItems\Magic\Potions\DamagePotion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Potions\HealingPotion.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Potions\HealingPotion.png.meta
+    projectPath: Assets\MinItems\Magic\Potions\HealingPotion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Potions\InvisibilityPotion.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Potions\InvisibilityPotion.png.meta
+    projectPath: Assets\MinItems\Magic\Potions\InvisibilityPotion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Potions\LovePotion.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Potions\LovePotion.png.meta
+    projectPath: Assets\MinItems\Magic\Potions\LovePotion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Potions\ManaPotion.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Potions\ManaPotion.png.meta
+    projectPath: Assets\MinItems\Magic\Potions\ManaPotion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Potions\PoisonPotion.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Potions\PoisonPotion.png.meta
+    projectPath: Assets\MinItems\Magic\Potions\PoisonPotion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\Staff.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\Staff.png.meta
+    projectPath: Assets\MinItems\Magic\Staff.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\StaffOfTheAir.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\StaffOfTheAir.png.meta
+    projectPath: Assets\MinItems\Magic\StaffOfTheAir.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\StaffOfTheStorms.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\StaffOfTheStorms.png.meta
+    projectPath: Assets\MinItems\Magic\StaffOfTheStorms.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\WizardHat.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\WizardHat.png.meta
+    projectPath: Assets\MinItems\Magic\WizardHat.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Magic\WrittenPaper.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Magic\WrittenPaper.png.meta
+    projectPath: Assets\MinItems\Magic\WrittenPaper.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\ModernItems.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\ModernItems.meta
+    projectPath: Assets\MinItems\ModernItems.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\ModernItems\ClassicPortableConsole.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\ModernItems\ClassicPortableConsole.png.meta
+    projectPath: Assets\MinItems\ModernItems\ClassicPortableConsole.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\ModernItems\Controller.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\ModernItems\Controller.png.meta
+    projectPath: Assets\MinItems\ModernItems\Controller.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\ModernItems\Microphone.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\ModernItems\Microphone.png.meta
+    projectPath: Assets\MinItems\ModernItems\Microphone.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\ModernItems\RemoteControl.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\ModernItems\RemoteControl.png.meta
+    projectPath: Assets\MinItems\ModernItems\RemoteControl.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\ModernItems\SmartPhone.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\ModernItems\SmartPhone.png.meta
+    projectPath: Assets\MinItems\ModernItems\SmartPhone.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\ModernItems\SmartphoneCall.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\ModernItems\SmartphoneCall.png.meta
+    projectPath: Assets\MinItems\ModernItems\SmartphoneCall.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\ModernItems\SmartphoneSMS.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\ModernItems\SmartphoneSMS.png.meta
+    projectPath: Assets\MinItems\ModernItems\SmartphoneSMS.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools.meta
+    projectPath: Assets\MinItems\Tools.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\Axe.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Axe.png.meta
+    projectPath: Assets\MinItems\Tools\Axe.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\Chainsaw.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Chainsaw.png.meta
+    projectPath: Assets\MinItems\Tools\Chainsaw.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\Hammer.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Hammer.png.meta
+    projectPath: Assets\MinItems\Tools\Hammer.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\HammerAlt.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\HammerAlt.png.meta
+    projectPath: Assets\MinItems\Tools\HammerAlt.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\Key.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Key.png.meta
+    projectPath: Assets\MinItems\Tools\Key.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\KeyBlue.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\KeyBlue.png.meta
+    projectPath: Assets\MinItems\Tools\KeyBlue.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\KeyGreen.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\KeyGreen.png.meta
+    projectPath: Assets\MinItems\Tools\KeyGreen.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\KeyRed.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\KeyRed.png.meta
+    projectPath: Assets\MinItems\Tools\KeyRed.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\PaintBrush.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\PaintBrush.png.meta
+    projectPath: Assets\MinItems\Tools\PaintBrush.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\PaintCan.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\PaintCan.png.meta
+    projectPath: Assets\MinItems\Tools\PaintCan.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\Pickaxe.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Pickaxe.png.meta
+    projectPath: Assets\MinItems\Tools\Pickaxe.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\Pliers.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Pliers.png.meta
+    projectPath: Assets\MinItems\Tools\Pliers.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\PliersOpen.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\PliersOpen.png.meta
+    projectPath: Assets\MinItems\Tools\PliersOpen.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\Screwdriver.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Screwdriver.png.meta
+    projectPath: Assets\MinItems\Tools\Screwdriver.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\Shovel.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Shovel.png.meta
+    projectPath: Assets\MinItems\Tools\Shovel.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Tools\Wrench.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Wrench.png.meta
+    projectPath: Assets\MinItems\Tools\Wrench.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons.meta
+    projectPath: Assets\MinItems\Weapons.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Arrow.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Arrow.png.meta
+    projectPath: Assets\MinItems\Weapons\Arrow.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Bolt.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Bolt.png.meta
+    projectPath: Assets\MinItems\Weapons\Bolt.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Bomb.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Bomb.png.meta
+    projectPath: Assets\MinItems\Weapons\Bomb.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Bow.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Bow.png.meta
+    projectPath: Assets\MinItems\Weapons\Bow.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\BowReady.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\BowReady.png.meta
+    projectPath: Assets\MinItems\Weapons\BowReady.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Crossbow.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Crossbow.png.meta
+    projectPath: Assets\MinItems\Weapons\Crossbow.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Dynamite.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Dynamite.png.meta
+    projectPath: Assets\MinItems\Weapons\Dynamite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\EvilSword.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\EvilSword.png.meta
+    projectPath: Assets\MinItems\Weapons\EvilSword.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Grenade.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Grenade.png.meta
+    projectPath: Assets\MinItems\Weapons\Grenade.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Guns.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Guns.meta
+    projectPath: Assets\MinItems\Weapons\Guns.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Guns\AK47.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Guns\AK47.png.meta
+    projectPath: Assets\MinItems\Weapons\Guns\AK47.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Guns\Mac10.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Guns\Mac10.png.meta
+    projectPath: Assets\MinItems\Weapons\Guns\Mac10.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Guns\Pistol.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Guns\Pistol.png.meta
+    projectPath: Assets\MinItems\Weapons\Guns\Pistol.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Guns\Revolver.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Guns\Revolver.png.meta
+    projectPath: Assets\MinItems\Weapons\Guns\Revolver.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Guns\Shotgun.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Guns\Shotgun.png.meta
+    projectPath: Assets\MinItems\Weapons\Guns\Shotgun.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\Guns\SniperRifle.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\Guns\SniperRifle.png.meta
+    projectPath: Assets\MinItems\Weapons\Guns\SniperRifle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\LoadedCrossbow.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\LoadedCrossbow.png.meta
+    projectPath: Assets\MinItems\Weapons\LoadedCrossbow.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\MinItems\Weapons\NormalSword.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Weapons\NormalSword.png.meta
+    projectPath: Assets\MinItems\Weapons\NormalSword.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\Scenes\Scene - Pat.unity
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\Scenes\Scene
+      - Pat.unity
+    projectPath: Assets\Scenes\Scene - Pat.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PandemicTrails\Library\ArtifactDB
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: PandemicTrails\Library\Artifacts\01\01a25f60b3a11b20411a1a2beae77911
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\01\01a25f60b3a11b20411a1a2beae77911
+    projectPath: Library\Artifacts\01\01a25f60b3a11b20411a1a2beae77911
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\02\025a5697ff5d8084fec448afc6fd652a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\02\025a5697ff5d8084fec448afc6fd652a
+    projectPath: Library\Artifacts\02\025a5697ff5d8084fec448afc6fd652a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\02\028da11e54662671a713a0605b4b47a4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\02\028da11e54662671a713a0605b4b47a4
+    projectPath: Library\Artifacts\02\028da11e54662671a713a0605b4b47a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\04\04434fdd2e88e9698771edac8eecbec1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\04\04434fdd2e88e9698771edac8eecbec1
+    projectPath: Library\Artifacts\04\04434fdd2e88e9698771edac8eecbec1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\04\04c4b4c37e878087631b5c038105bcfb
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\04\04c4b4c37e878087631b5c038105bcfb
+    projectPath: Library\Artifacts\04\04c4b4c37e878087631b5c038105bcfb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\04\04df5c9fa5abdfb4bb4f6b14315c664b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\04\04df5c9fa5abdfb4bb4f6b14315c664b
+    projectPath: Library\Artifacts\04\04df5c9fa5abdfb4bb4f6b14315c664b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\05\05947bf738b866549a6e6507d6b4cc2e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\05\05947bf738b866549a6e6507d6b4cc2e
+    projectPath: Library\Artifacts\05\05947bf738b866549a6e6507d6b4cc2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\05\05a55930a8ac981491838ff208842109
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\05\05a55930a8ac981491838ff208842109
+    projectPath: Library\Artifacts\05\05a55930a8ac981491838ff208842109
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\05\05a678f4f990e72d0ca0ad7bd9562fed
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\05\05a678f4f990e72d0ca0ad7bd9562fed
+    projectPath: Library\Artifacts\05\05a678f4f990e72d0ca0ad7bd9562fed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\06\060f2cdc60b7cc62bbf6f777563b2a0c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\06\060f2cdc60b7cc62bbf6f777563b2a0c
+    projectPath: Library\Artifacts\06\060f2cdc60b7cc62bbf6f777563b2a0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\06\062829bf7fbc0fbf64c9e388e6e6ac43
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\06\062829bf7fbc0fbf64c9e388e6e6ac43
+    projectPath: Library\Artifacts\06\062829bf7fbc0fbf64c9e388e6e6ac43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\06\06518de6b30a607ede91b404f73c79ca
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\06\06518de6b30a607ede91b404f73c79ca
+    projectPath: Library\Artifacts\06\06518de6b30a607ede91b404f73c79ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\06\06f2578e802f9ebe5e120d9ec8201c96
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\06\06f2578e802f9ebe5e120d9ec8201c96
+    projectPath: Library\Artifacts\06\06f2578e802f9ebe5e120d9ec8201c96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\07\0735703f2541dae1996bd65e39195689
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\07\0735703f2541dae1996bd65e39195689
+    projectPath: Library\Artifacts\07\0735703f2541dae1996bd65e39195689
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\07\07b1350afefd755c2abd33b443442451
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\07\07b1350afefd755c2abd33b443442451
+    projectPath: Library\Artifacts\07\07b1350afefd755c2abd33b443442451
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\08\088a9b66616d9b714ada4cfefe2d8153
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\08\088a9b66616d9b714ada4cfefe2d8153
+    projectPath: Library\Artifacts\08\088a9b66616d9b714ada4cfefe2d8153
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\08\08f3f6592554693026e9c33542975736
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\08\08f3f6592554693026e9c33542975736
+    projectPath: Library\Artifacts\08\08f3f6592554693026e9c33542975736
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\0c\0c58c6443e56bc502b67973c86826623
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\0c\0c58c6443e56bc502b67973c86826623
+    projectPath: Library\Artifacts\0c\0c58c6443e56bc502b67973c86826623
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\0e\0e5884777fd4e046a34077a15c22acee
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\0e\0e5884777fd4e046a34077a15c22acee
+    projectPath: Library\Artifacts\0e\0e5884777fd4e046a34077a15c22acee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\0f\0f2dd568bc71646c8f891a6ecc817a00
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\0f\0f2dd568bc71646c8f891a6ecc817a00
+    projectPath: Library\Artifacts\0f\0f2dd568bc71646c8f891a6ecc817a00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\0f\0f66ed5ca366055c3872ee93d0e1f5e6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\0f\0f66ed5ca366055c3872ee93d0e1f5e6
+    projectPath: Library\Artifacts\0f\0f66ed5ca366055c3872ee93d0e1f5e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\0f\0f70ec1d2b511617cc64621051c0b3f9
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\0f\0f70ec1d2b511617cc64621051c0b3f9
+    projectPath: Library\Artifacts\0f\0f70ec1d2b511617cc64621051c0b3f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\10\1048c2cf8a79956ac63e8496856fa7ed
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\10\1048c2cf8a79956ac63e8496856fa7ed
+    projectPath: Library\Artifacts\10\1048c2cf8a79956ac63e8496856fa7ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\10\10aee6bd7640ab13692d63a1fe291daa
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\10\10aee6bd7640ab13692d63a1fe291daa
+    projectPath: Library\Artifacts\10\10aee6bd7640ab13692d63a1fe291daa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\12\12ce9d8e29bad9201716c3b0a9101b9c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\12\12ce9d8e29bad9201716c3b0a9101b9c
+    projectPath: Library\Artifacts\12\12ce9d8e29bad9201716c3b0a9101b9c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\12\12efd153bc59bc7703423ae0626dcc31
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\12\12efd153bc59bc7703423ae0626dcc31
+    projectPath: Library\Artifacts\12\12efd153bc59bc7703423ae0626dcc31
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\15\158a300c687a562f0ebef29b9077ab12
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\15\158a300c687a562f0ebef29b9077ab12
+    projectPath: Library\Artifacts\15\158a300c687a562f0ebef29b9077ab12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\15\158a5dd0e7be1c13f0b8aca097e3e0b6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\15\158a5dd0e7be1c13f0b8aca097e3e0b6
+    projectPath: Library\Artifacts\15\158a5dd0e7be1c13f0b8aca097e3e0b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\15\159e30286d04a4c66e60ca55bc143989
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\15\159e30286d04a4c66e60ca55bc143989
+    projectPath: Library\Artifacts\15\159e30286d04a4c66e60ca55bc143989
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\16\16f9e2fe1ae6cfcedb60bb7ea151d054
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\16\16f9e2fe1ae6cfcedb60bb7ea151d054
+    projectPath: Library\Artifacts\16\16f9e2fe1ae6cfcedb60bb7ea151d054
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\18\184d9b41b256f43b769667719982578a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\18\184d9b41b256f43b769667719982578a
+    projectPath: Library\Artifacts\18\184d9b41b256f43b769667719982578a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\19\194062ad9336ef1609a84bfd3004a7ca
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\19\194062ad9336ef1609a84bfd3004a7ca
+    projectPath: Library\Artifacts\19\194062ad9336ef1609a84bfd3004a7ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\19\194714f553bd0042da20f8bb509a997a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\19\194714f553bd0042da20f8bb509a997a
+    projectPath: Library\Artifacts\19\194714f553bd0042da20f8bb509a997a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\1a\1a79388c51899e94f48b73b9ba111512
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\1a\1a79388c51899e94f48b73b9ba111512
+    projectPath: Library\Artifacts\1a\1a79388c51899e94f48b73b9ba111512
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\1a\1abcc79f23dc0647f72cb670c2872256
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\1a\1abcc79f23dc0647f72cb670c2872256
+    projectPath: Library\Artifacts\1a\1abcc79f23dc0647f72cb670c2872256
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\1c\1ca1889ece3512f17aec6cad58e9c82f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\1c\1ca1889ece3512f17aec6cad58e9c82f
+    projectPath: Library\Artifacts\1c\1ca1889ece3512f17aec6cad58e9c82f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\1d\1db56e6d06f71eb5ba15f6eb82034c73
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\1d\1db56e6d06f71eb5ba15f6eb82034c73
+    projectPath: Library\Artifacts\1d\1db56e6d06f71eb5ba15f6eb82034c73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\1f\1fcdd7fa82b340933a0a1feeacada9ed
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\1f\1fcdd7fa82b340933a0a1feeacada9ed
+    projectPath: Library\Artifacts\1f\1fcdd7fa82b340933a0a1feeacada9ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\20\207f12364a4e3a1bc22b6988220bb332
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\20\207f12364a4e3a1bc22b6988220bb332
+    projectPath: Library\Artifacts\20\207f12364a4e3a1bc22b6988220bb332
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\21\215f304983bda59906700a7f749fbbf3
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\21\215f304983bda59906700a7f749fbbf3
+    projectPath: Library\Artifacts\21\215f304983bda59906700a7f749fbbf3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\21\2165b59a99ef3601b7204c12679c0d3f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\21\2165b59a99ef3601b7204c12679c0d3f
+    projectPath: Library\Artifacts\21\2165b59a99ef3601b7204c12679c0d3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\21\21a01c03fbf7eda48584b7c254a2af76
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\21\21a01c03fbf7eda48584b7c254a2af76
+    projectPath: Library\Artifacts\21\21a01c03fbf7eda48584b7c254a2af76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\21\21d1ffc2c5d04573dce847f73118756f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\21\21d1ffc2c5d04573dce847f73118756f
+    projectPath: Library\Artifacts\21\21d1ffc2c5d04573dce847f73118756f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\21\21de462b0a8c3b0244685d5993d470c2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\21\21de462b0a8c3b0244685d5993d470c2
+    projectPath: Library\Artifacts\21\21de462b0a8c3b0244685d5993d470c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\22\223c5b1bef84d5eeeaf27da57cae8584
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\22\223c5b1bef84d5eeeaf27da57cae8584
+    projectPath: Library\Artifacts\22\223c5b1bef84d5eeeaf27da57cae8584
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\23\231702a5b9ffb346703a1eb5a5aed504
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\23\231702a5b9ffb346703a1eb5a5aed504
+    projectPath: Library\Artifacts\23\231702a5b9ffb346703a1eb5a5aed504
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\23\2322f9435c03cb5ba3233d33f996884a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\23\2322f9435c03cb5ba3233d33f996884a
+    projectPath: Library\Artifacts\23\2322f9435c03cb5ba3233d33f996884a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\24\24c5973e31320ece9f109198cdb95875
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\24\24c5973e31320ece9f109198cdb95875
+    projectPath: Library\Artifacts\24\24c5973e31320ece9f109198cdb95875
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\25\258236ddfb58ad4d62793d2a10cb3ef6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\25\258236ddfb58ad4d62793d2a10cb3ef6
+    projectPath: Library\Artifacts\25\258236ddfb58ad4d62793d2a10cb3ef6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\26\26ae38c4e9ed39e29ee3ab3adfc60133
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\26\26ae38c4e9ed39e29ee3ab3adfc60133
+    projectPath: Library\Artifacts\26\26ae38c4e9ed39e29ee3ab3adfc60133
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\27\27b4f96344cda2a02aa3b7a0cd989a40
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\27\27b4f96344cda2a02aa3b7a0cd989a40
+    projectPath: Library\Artifacts\27\27b4f96344cda2a02aa3b7a0cd989a40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\27\27e3d482ff6692e6863ac6e6ac93ecfa
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\27\27e3d482ff6692e6863ac6e6ac93ecfa
+    projectPath: Library\Artifacts\27\27e3d482ff6692e6863ac6e6ac93ecfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\28\28042a7c2e7887fe45f3b1b5ea5551f7
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\28\28042a7c2e7887fe45f3b1b5ea5551f7
+    projectPath: Library\Artifacts\28\28042a7c2e7887fe45f3b1b5ea5551f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\28\28196aaa177edc83dfe84e186012195c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\28\28196aaa177edc83dfe84e186012195c
+    projectPath: Library\Artifacts\28\28196aaa177edc83dfe84e186012195c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\28\285023b78140f071b2438fcd6c1ff6a1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\28\285023b78140f071b2438fcd6c1ff6a1
+    projectPath: Library\Artifacts\28\285023b78140f071b2438fcd6c1ff6a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\2a\2afa2695f7c55754f807f0419f5149b0
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\2a\2afa2695f7c55754f807f0419f5149b0
+    projectPath: Library\Artifacts\2a\2afa2695f7c55754f807f0419f5149b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\2b\2b01df02d9d5dca29f414f44311bd394
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\2b\2b01df02d9d5dca29f414f44311bd394
+    projectPath: Library\Artifacts\2b\2b01df02d9d5dca29f414f44311bd394
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\2c\2c63828abb18cb87ed59e02da3c4a5bb
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\2c\2c63828abb18cb87ed59e02da3c4a5bb
+    projectPath: Library\Artifacts\2c\2c63828abb18cb87ed59e02da3c4a5bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\2c\2cebe010a0cebd9756753b2a6ad97c62
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\2c\2cebe010a0cebd9756753b2a6ad97c62
+    projectPath: Library\Artifacts\2c\2cebe010a0cebd9756753b2a6ad97c62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\2d\2d6ab0817e79529d62f5868b7dc4f1a4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\2d\2d6ab0817e79529d62f5868b7dc4f1a4
+    projectPath: Library\Artifacts\2d\2d6ab0817e79529d62f5868b7dc4f1a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\2d\2d8726a12977f39cef61dafde30e8aea
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\2d\2d8726a12977f39cef61dafde30e8aea
+    projectPath: Library\Artifacts\2d\2d8726a12977f39cef61dafde30e8aea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\2e\2ee8cc39abd0f967519533a7657c3ecf
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\2e\2ee8cc39abd0f967519533a7657c3ecf
+    projectPath: Library\Artifacts\2e\2ee8cc39abd0f967519533a7657c3ecf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\2f\2faadfdbec1ed53cdbe666908328a6ad
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\2f\2faadfdbec1ed53cdbe666908328a6ad
+    projectPath: Library\Artifacts\2f\2faadfdbec1ed53cdbe666908328a6ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\32\320cae6c4c5bb435009e8cf19f794adb
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\32\320cae6c4c5bb435009e8cf19f794adb
+    projectPath: Library\Artifacts\32\320cae6c4c5bb435009e8cf19f794adb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\32\32b1fe8a67e451c29e621855538bcaef
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\32\32b1fe8a67e451c29e621855538bcaef
+    projectPath: Library\Artifacts\32\32b1fe8a67e451c29e621855538bcaef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\34\34f52f6a30bfdcd45249733346dbf25c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\34\34f52f6a30bfdcd45249733346dbf25c
+    projectPath: Library\Artifacts\34\34f52f6a30bfdcd45249733346dbf25c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\35\350d53438c96d28f9107ecabd565e184
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\35\350d53438c96d28f9107ecabd565e184
+    projectPath: Library\Artifacts\35\350d53438c96d28f9107ecabd565e184
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\35\35c57b4e9f2b6f6e370961e4c085c42b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\35\35c57b4e9f2b6f6e370961e4c085c42b
+    projectPath: Library\Artifacts\35\35c57b4e9f2b6f6e370961e4c085c42b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\37\3765afa906634e042673e1c5b36efe36
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\37\3765afa906634e042673e1c5b36efe36
+    projectPath: Library\Artifacts\37\3765afa906634e042673e1c5b36efe36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\37\37a0e47158d82be3b50540a36419205d
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\37\37a0e47158d82be3b50540a36419205d
+    projectPath: Library\Artifacts\37\37a0e47158d82be3b50540a36419205d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\37\37d27e9488b320c78b25174f1ad2ba10
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\37\37d27e9488b320c78b25174f1ad2ba10
+    projectPath: Library\Artifacts\37\37d27e9488b320c78b25174f1ad2ba10
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\38\3808264b0021fe9fe13654de75916c1a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\38\3808264b0021fe9fe13654de75916c1a
+    projectPath: Library\Artifacts\38\3808264b0021fe9fe13654de75916c1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\38\388023d92c8467da1e082d285fa59f06
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\38\388023d92c8467da1e082d285fa59f06
+    projectPath: Library\Artifacts\38\388023d92c8467da1e082d285fa59f06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\38\38965cade1817f5fe69da04a2b60e1d1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\38\38965cade1817f5fe69da04a2b60e1d1
+    projectPath: Library\Artifacts\38\38965cade1817f5fe69da04a2b60e1d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\38\38a2c56ca236ef02a4a7ee81e64550ec
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\38\38a2c56ca236ef02a4a7ee81e64550ec
+    projectPath: Library\Artifacts\38\38a2c56ca236ef02a4a7ee81e64550ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\39\39776db1546776e151b7d5a171c6cc3a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\39\39776db1546776e151b7d5a171c6cc3a
+    projectPath: Library\Artifacts\39\39776db1546776e151b7d5a171c6cc3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\39\397a8fa61b0c33ed84055bf5a4fe3616
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\39\397a8fa61b0c33ed84055bf5a4fe3616
+    projectPath: Library\Artifacts\39\397a8fa61b0c33ed84055bf5a4fe3616
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\39\39af6e718b9f6abf1712ce56ffaaf1c6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\39\39af6e718b9f6abf1712ce56ffaaf1c6
+    projectPath: Library\Artifacts\39\39af6e718b9f6abf1712ce56ffaaf1c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\39\39f74396c05aef39a8e0c43427f17c20
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\39\39f74396c05aef39a8e0c43427f17c20
+    projectPath: Library\Artifacts\39\39f74396c05aef39a8e0c43427f17c20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3a\3a0f9c04ebbfa1ad40ec9338af660e79
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3a\3a0f9c04ebbfa1ad40ec9338af660e79
+    projectPath: Library\Artifacts\3a\3a0f9c04ebbfa1ad40ec9338af660e79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3a\3a22ee2d9659415fc233d443273b0ac0
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3a\3a22ee2d9659415fc233d443273b0ac0
+    projectPath: Library\Artifacts\3a\3a22ee2d9659415fc233d443273b0ac0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3a\3a29c6c7e9a5a18c2fe60a9590dc57b3
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3a\3a29c6c7e9a5a18c2fe60a9590dc57b3
+    projectPath: Library\Artifacts\3a\3a29c6c7e9a5a18c2fe60a9590dc57b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3a\3ac6f4d0b6c2c8d042c929412683fe24
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3a\3ac6f4d0b6c2c8d042c929412683fe24
+    projectPath: Library\Artifacts\3a\3ac6f4d0b6c2c8d042c929412683fe24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3a\3ae43ce8a669022b6b349a68b13b2bee
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3a\3ae43ce8a669022b6b349a68b13b2bee
+    projectPath: Library\Artifacts\3a\3ae43ce8a669022b6b349a68b13b2bee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3b\3b3dd4186f496040a968e1e624b010ca
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3b\3b3dd4186f496040a968e1e624b010ca
+    projectPath: Library\Artifacts\3b\3b3dd4186f496040a968e1e624b010ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3b\3bb1c06842c1a9842e656e27317b6d22
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3b\3bb1c06842c1a9842e656e27317b6d22
+    projectPath: Library\Artifacts\3b\3bb1c06842c1a9842e656e27317b6d22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3b\3bd3b094262e65a9421ad611fa0fd35f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3b\3bd3b094262e65a9421ad611fa0fd35f
+    projectPath: Library\Artifacts\3b\3bd3b094262e65a9421ad611fa0fd35f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3c\3c0f66c7907da669ed1e619b1a149b9d
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3c\3c0f66c7907da669ed1e619b1a149b9d
+    projectPath: Library\Artifacts\3c\3c0f66c7907da669ed1e619b1a149b9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3c\3c6a6253b2ce14ea120314e2e00ed13a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3c\3c6a6253b2ce14ea120314e2e00ed13a
+    projectPath: Library\Artifacts\3c\3c6a6253b2ce14ea120314e2e00ed13a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3c\3cc5fc83979bac74a0f3a13192d4f43f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3c\3cc5fc83979bac74a0f3a13192d4f43f
+    projectPath: Library\Artifacts\3c\3cc5fc83979bac74a0f3a13192d4f43f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3d\3d6b4d2b5894d46a2b9709a51a440a3c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3d\3d6b4d2b5894d46a2b9709a51a440a3c
+    projectPath: Library\Artifacts\3d\3d6b4d2b5894d46a2b9709a51a440a3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3d\3d72ee47ff24e58b5ce906406395195a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3d\3d72ee47ff24e58b5ce906406395195a
+    projectPath: Library\Artifacts\3d\3d72ee47ff24e58b5ce906406395195a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3d\3df3d4a401fdd2305fbdf489efe5b6a5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3d\3df3d4a401fdd2305fbdf489efe5b6a5
+    projectPath: Library\Artifacts\3d\3df3d4a401fdd2305fbdf489efe5b6a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3d\3dfcb58c3f75df6e02ea7e4f10d51ebd
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3d\3dfcb58c3f75df6e02ea7e4f10d51ebd
+    projectPath: Library\Artifacts\3d\3dfcb58c3f75df6e02ea7e4f10d51ebd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3e\3e7516b3e85a37f73be1a64c9cf77c04
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3e\3e7516b3e85a37f73be1a64c9cf77c04
+    projectPath: Library\Artifacts\3e\3e7516b3e85a37f73be1a64c9cf77c04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3e\3ef491c7f2c32ed936aadcf6acdc3fc2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3e\3ef491c7f2c32ed936aadcf6acdc3fc2
+    projectPath: Library\Artifacts\3e\3ef491c7f2c32ed936aadcf6acdc3fc2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\3e\3eff702ab45d67e8b1f259ca4a20c68a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3e\3eff702ab45d67e8b1f259ca4a20c68a
+    projectPath: Library\Artifacts\3e\3eff702ab45d67e8b1f259ca4a20c68a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\42\427fe0c87718a783d63babff1239eb41
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\42\427fe0c87718a783d63babff1239eb41
+    projectPath: Library\Artifacts\42\427fe0c87718a783d63babff1239eb41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\42\42a5da9b4ff7ac97b1c92123f9195ee8
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\42\42a5da9b4ff7ac97b1c92123f9195ee8
+    projectPath: Library\Artifacts\42\42a5da9b4ff7ac97b1c92123f9195ee8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\43\433445c08205732c78ec6c80c01a605e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\43\433445c08205732c78ec6c80c01a605e
+    projectPath: Library\Artifacts\43\433445c08205732c78ec6c80c01a605e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\44\443fa7d104de0c60e07759dca7421617
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\44\443fa7d104de0c60e07759dca7421617
+    projectPath: Library\Artifacts\44\443fa7d104de0c60e07759dca7421617
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\44\44a1d74d3eb8da84a5fc7d7733b0f340
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\44\44a1d74d3eb8da84a5fc7d7733b0f340
+    projectPath: Library\Artifacts\44\44a1d74d3eb8da84a5fc7d7733b0f340
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\45\452f713abf718d85fac47078847be990
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\45\452f713abf718d85fac47078847be990
+    projectPath: Library\Artifacts\45\452f713abf718d85fac47078847be990
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\45\45bc0de9f391651d40326bda772ae6be
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\45\45bc0de9f391651d40326bda772ae6be
+    projectPath: Library\Artifacts\45\45bc0de9f391651d40326bda772ae6be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\45\45f99bb27b176f8c92e8452be5449a46
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\45\45f99bb27b176f8c92e8452be5449a46
+    projectPath: Library\Artifacts\45\45f99bb27b176f8c92e8452be5449a46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\46\463f8434fd3b33c8803df09f5d83a885
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\46\463f8434fd3b33c8803df09f5d83a885
+    projectPath: Library\Artifacts\46\463f8434fd3b33c8803df09f5d83a885
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\46\465dae3cee0ecf1b45a824444bdcbd9e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\46\465dae3cee0ecf1b45a824444bdcbd9e
+    projectPath: Library\Artifacts\46\465dae3cee0ecf1b45a824444bdcbd9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\47\47b0ff82431c9c58719d81abc324e0da
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\47\47b0ff82431c9c58719d81abc324e0da
+    projectPath: Library\Artifacts\47\47b0ff82431c9c58719d81abc324e0da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\48\48a86daa11b23bd1fa75163cf6fcdd9a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\48\48a86daa11b23bd1fa75163cf6fcdd9a
+    projectPath: Library\Artifacts\48\48a86daa11b23bd1fa75163cf6fcdd9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\49\491f8d7f74cc8c8c0a8e46d4f7312aa1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\49\491f8d7f74cc8c8c0a8e46d4f7312aa1
+    projectPath: Library\Artifacts\49\491f8d7f74cc8c8c0a8e46d4f7312aa1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\49\49d69dc93717a1cc96e135eb081b8b1b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\49\49d69dc93717a1cc96e135eb081b8b1b
+    projectPath: Library\Artifacts\49\49d69dc93717a1cc96e135eb081b8b1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\49\49da16d8b24a98706ebe8671d47f04fa
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\49\49da16d8b24a98706ebe8671d47f04fa
+    projectPath: Library\Artifacts\49\49da16d8b24a98706ebe8671d47f04fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4a\4a0a8df7a37f59014d5b5e2a1eb0a45f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4a\4a0a8df7a37f59014d5b5e2a1eb0a45f
+    projectPath: Library\Artifacts\4a\4a0a8df7a37f59014d5b5e2a1eb0a45f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4a\4a8973c8ec6d54815d03d92974a944cb
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4a\4a8973c8ec6d54815d03d92974a944cb
+    projectPath: Library\Artifacts\4a\4a8973c8ec6d54815d03d92974a944cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4a\4aab9b89b544e090c3d5f86f35ed0c90
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4a\4aab9b89b544e090c3d5f86f35ed0c90
+    projectPath: Library\Artifacts\4a\4aab9b89b544e090c3d5f86f35ed0c90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4a\4ac56c9a87ab7860f5d1abceeee846bf
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4a\4ac56c9a87ab7860f5d1abceeee846bf
+    projectPath: Library\Artifacts\4a\4ac56c9a87ab7860f5d1abceeee846bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4b\4b4055bdfa07c9c43c85db1446ce2d2c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4b\4b4055bdfa07c9c43c85db1446ce2d2c
+    projectPath: Library\Artifacts\4b\4b4055bdfa07c9c43c85db1446ce2d2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4d\4d2ac8cb1d28d9c37c445c61dd2b02d4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4d\4d2ac8cb1d28d9c37c445c61dd2b02d4
+    projectPath: Library\Artifacts\4d\4d2ac8cb1d28d9c37c445c61dd2b02d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4e\4e4dfa5d5d5b2e70e3b0784faa692ae4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4e\4e4dfa5d5d5b2e70e3b0784faa692ae4
+    projectPath: Library\Artifacts\4e\4e4dfa5d5d5b2e70e3b0784faa692ae4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4e\4ee932305386249510d3b5b173752c02
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4e\4ee932305386249510d3b5b173752c02
+    projectPath: Library\Artifacts\4e\4ee932305386249510d3b5b173752c02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4f\4f8b45255a2fbf7c7c04a84f4f140884
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4f\4f8b45255a2fbf7c7c04a84f4f140884
+    projectPath: Library\Artifacts\4f\4f8b45255a2fbf7c7c04a84f4f140884
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\50\50c429177ea3d868524e4d55ca3206b7
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\50\50c429177ea3d868524e4d55ca3206b7
+    projectPath: Library\Artifacts\50\50c429177ea3d868524e4d55ca3206b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\50\50d7f56bed681c1f5a3c20a98207304e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\50\50d7f56bed681c1f5a3c20a98207304e
+    projectPath: Library\Artifacts\50\50d7f56bed681c1f5a3c20a98207304e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\50\50def061204ff7dcd555f5fbebdd6f98
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\50\50def061204ff7dcd555f5fbebdd6f98
+    projectPath: Library\Artifacts\50\50def061204ff7dcd555f5fbebdd6f98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\52\522282472746c7a8e61829c629a55008
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\52\522282472746c7a8e61829c629a55008
+    projectPath: Library\Artifacts\52\522282472746c7a8e61829c629a55008
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\52\526d410204e59f599a5bb6aa154aeb21
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\52\526d410204e59f599a5bb6aa154aeb21
+    projectPath: Library\Artifacts\52\526d410204e59f599a5bb6aa154aeb21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\55\559557520c5c9bc20dc19dc6c2f757ee
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\55\559557520c5c9bc20dc19dc6c2f757ee
+    projectPath: Library\Artifacts\55\559557520c5c9bc20dc19dc6c2f757ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\56\566ce111afc591bb2d70030923e4685f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\56\566ce111afc591bb2d70030923e4685f
+    projectPath: Library\Artifacts\56\566ce111afc591bb2d70030923e4685f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\56\56bc648b550919ef9dddcec9cf973084
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\56\56bc648b550919ef9dddcec9cf973084
+    projectPath: Library\Artifacts\56\56bc648b550919ef9dddcec9cf973084
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\56\56d92f659e09bb272c80c807b9cf2973
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\56\56d92f659e09bb272c80c807b9cf2973
+    projectPath: Library\Artifacts\56\56d92f659e09bb272c80c807b9cf2973
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\58\58aa64f7ad0a9045a94f25958ded3219
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\58\58aa64f7ad0a9045a94f25958ded3219
+    projectPath: Library\Artifacts\58\58aa64f7ad0a9045a94f25958ded3219
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\58\58f8a1adad72bd75f4b37ceb1a71db18
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\58\58f8a1adad72bd75f4b37ceb1a71db18
+    projectPath: Library\Artifacts\58\58f8a1adad72bd75f4b37ceb1a71db18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\5a\5aa3baed33d6df03900bbc850c70852b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\5a\5aa3baed33d6df03900bbc850c70852b
+    projectPath: Library\Artifacts\5a\5aa3baed33d6df03900bbc850c70852b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\5a\5ad77d67ca0e6b468f3c90f79f3210f9
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\5a\5ad77d67ca0e6b468f3c90f79f3210f9
+    projectPath: Library\Artifacts\5a\5ad77d67ca0e6b468f3c90f79f3210f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\5c\5c7138989a7b54c76e00e4d6a88ff4a0
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\5c\5c7138989a7b54c76e00e4d6a88ff4a0
+    projectPath: Library\Artifacts\5c\5c7138989a7b54c76e00e4d6a88ff4a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\5d\5d2d2d2fb78e4493dcfcf7031b1f3180
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\5d\5d2d2d2fb78e4493dcfcf7031b1f3180
+    projectPath: Library\Artifacts\5d\5d2d2d2fb78e4493dcfcf7031b1f3180
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\5d\5df1fd6f67836cf432582ffd9d4ab856
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\5d\5df1fd6f67836cf432582ffd9d4ab856
+    projectPath: Library\Artifacts\5d\5df1fd6f67836cf432582ffd9d4ab856
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\5f\5fd44adc39d75be7fe0cbe64f35fe0b3
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\5f\5fd44adc39d75be7fe0cbe64f35fe0b3
+    projectPath: Library\Artifacts\5f\5fd44adc39d75be7fe0cbe64f35fe0b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\60\604b673d0da1e0b745cb76104fe96687
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\60\604b673d0da1e0b745cb76104fe96687
+    projectPath: Library\Artifacts\60\604b673d0da1e0b745cb76104fe96687
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\60\60790f7b79fb25d05cc0fa78acf08eae
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\60\60790f7b79fb25d05cc0fa78acf08eae
+    projectPath: Library\Artifacts\60\60790f7b79fb25d05cc0fa78acf08eae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\62\62772ce46110190a65da6ae2847dd93f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\62\62772ce46110190a65da6ae2847dd93f
+    projectPath: Library\Artifacts\62\62772ce46110190a65da6ae2847dd93f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\63\63e82b2a9156875d328879d4b059ac88
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\63\63e82b2a9156875d328879d4b059ac88
+    projectPath: Library\Artifacts\63\63e82b2a9156875d328879d4b059ac88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\64\64ad8c653ee95c0cede4adacf3aa64a1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\64\64ad8c653ee95c0cede4adacf3aa64a1
+    projectPath: Library\Artifacts\64\64ad8c653ee95c0cede4adacf3aa64a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\65\656bbc7b03f40d6e2da30a5b75baef13
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\65\656bbc7b03f40d6e2da30a5b75baef13
+    projectPath: Library\Artifacts\65\656bbc7b03f40d6e2da30a5b75baef13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\65\65989d2a96b35a6481fe3f9b0a76f7a5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\65\65989d2a96b35a6481fe3f9b0a76f7a5
+    projectPath: Library\Artifacts\65\65989d2a96b35a6481fe3f9b0a76f7a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\65\65b2d3fdcd3a65d43de44e648115c810
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\65\65b2d3fdcd3a65d43de44e648115c810
+    projectPath: Library\Artifacts\65\65b2d3fdcd3a65d43de44e648115c810
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\66\66346afa675335db027084bfdf3bb420
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\66\66346afa675335db027084bfdf3bb420
+    projectPath: Library\Artifacts\66\66346afa675335db027084bfdf3bb420
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\66\667f590d7a033eaaf1bb4ac92535b3e4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\66\667f590d7a033eaaf1bb4ac92535b3e4
+    projectPath: Library\Artifacts\66\667f590d7a033eaaf1bb4ac92535b3e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\68\68067ed60e713b7201aff326f92393d6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\68\68067ed60e713b7201aff326f92393d6
+    projectPath: Library\Artifacts\68\68067ed60e713b7201aff326f92393d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\68\68a5b5f298463de08c5952c5e022884a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\68\68a5b5f298463de08c5952c5e022884a
+    projectPath: Library\Artifacts\68\68a5b5f298463de08c5952c5e022884a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\68\68f271b21e458ed2498d8ecb82c554e5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\68\68f271b21e458ed2498d8ecb82c554e5
+    projectPath: Library\Artifacts\68\68f271b21e458ed2498d8ecb82c554e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\69\6947ba63fa215862303740c74c223325
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\69\6947ba63fa215862303740c74c223325
+    projectPath: Library\Artifacts\69\6947ba63fa215862303740c74c223325
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\69\697d8ac565935f2599aa7120a245fc7b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\69\697d8ac565935f2599aa7120a245fc7b
+    projectPath: Library\Artifacts\69\697d8ac565935f2599aa7120a245fc7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\6c\6c81982e9df5a55c3c058e347b1f925a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\6c\6c81982e9df5a55c3c058e347b1f925a
+    projectPath: Library\Artifacts\6c\6c81982e9df5a55c3c058e347b1f925a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\6c\6ce77c939800177df98b063bc2d98214
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\6c\6ce77c939800177df98b063bc2d98214
+    projectPath: Library\Artifacts\6c\6ce77c939800177df98b063bc2d98214
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\6e\6e1185b908854695a2d3dd2059d11ab6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\6e\6e1185b908854695a2d3dd2059d11ab6
+    projectPath: Library\Artifacts\6e\6e1185b908854695a2d3dd2059d11ab6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\6e\6e9d8bf796ca130e0a9a32513d9bbca8
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\6e\6e9d8bf796ca130e0a9a32513d9bbca8
+    projectPath: Library\Artifacts\6e\6e9d8bf796ca130e0a9a32513d9bbca8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\70\7009e9e3a3f3b213688dd5b7ceea299e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\70\7009e9e3a3f3b213688dd5b7ceea299e
+    projectPath: Library\Artifacts\70\7009e9e3a3f3b213688dd5b7ceea299e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\70\70892931054f63e21de7620e7c1e7d3f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\70\70892931054f63e21de7620e7c1e7d3f
+    projectPath: Library\Artifacts\70\70892931054f63e21de7620e7c1e7d3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\71\711eef0e07ceade9b407b11b40a35bf6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\71\711eef0e07ceade9b407b11b40a35bf6
+    projectPath: Library\Artifacts\71\711eef0e07ceade9b407b11b40a35bf6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\72\72908d5d3995f13bb637badd75854442
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\72\72908d5d3995f13bb637badd75854442
+    projectPath: Library\Artifacts\72\72908d5d3995f13bb637badd75854442
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\72\72a42184d5e152bfa8e2c690c408d71d
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\72\72a42184d5e152bfa8e2c690c408d71d
+    projectPath: Library\Artifacts\72\72a42184d5e152bfa8e2c690c408d71d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\73\731c319ee4873cd367388bba03e8ef68
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\73\731c319ee4873cd367388bba03e8ef68
+    projectPath: Library\Artifacts\73\731c319ee4873cd367388bba03e8ef68
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\74\74886b8ed05c6ee7577e4c679cfc629f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\74\74886b8ed05c6ee7577e4c679cfc629f
+    projectPath: Library\Artifacts\74\74886b8ed05c6ee7577e4c679cfc629f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\78\7869630061a619aa1d1cc8566d7c07a3
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\78\7869630061a619aa1d1cc8566d7c07a3
+    projectPath: Library\Artifacts\78\7869630061a619aa1d1cc8566d7c07a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\78\78fc13593e1376842a3bafd54d33594f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\78\78fc13593e1376842a3bafd54d33594f
+    projectPath: Library\Artifacts\78\78fc13593e1376842a3bafd54d33594f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7a\7a2feb08e1b74d2a2f0fe35483a2a025
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7a\7a2feb08e1b74d2a2f0fe35483a2a025
+    projectPath: Library\Artifacts\7a\7a2feb08e1b74d2a2f0fe35483a2a025
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7a\7aab47dd5dd6103ff6e6c61c559d99f2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7a\7aab47dd5dd6103ff6e6c61c559d99f2
+    projectPath: Library\Artifacts\7a\7aab47dd5dd6103ff6e6c61c559d99f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7a\7acb13168e18bbf7fcad0c1e643c3ba6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7a\7acb13168e18bbf7fcad0c1e643c3ba6
+    projectPath: Library\Artifacts\7a\7acb13168e18bbf7fcad0c1e643c3ba6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7b\7bbfa6b0d0e39fd7eb85db7e485b6a0b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7b\7bbfa6b0d0e39fd7eb85db7e485b6a0b
+    projectPath: Library\Artifacts\7b\7bbfa6b0d0e39fd7eb85db7e485b6a0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7b\7bd89b6ce94421c128a13605e305ecd0
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7b\7bd89b6ce94421c128a13605e305ecd0
+    projectPath: Library\Artifacts\7b\7bd89b6ce94421c128a13605e305ecd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7c\7cd7c16ae4d03c463abc110b90c315cd
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7c\7cd7c16ae4d03c463abc110b90c315cd
+    projectPath: Library\Artifacts\7c\7cd7c16ae4d03c463abc110b90c315cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7d\7d4d750da0da2e9653824e27dfc9d0bb
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7d\7d4d750da0da2e9653824e27dfc9d0bb
+    projectPath: Library\Artifacts\7d\7d4d750da0da2e9653824e27dfc9d0bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7d\7d970f7247ebe6a7eabb24a227e54d6c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7d\7d970f7247ebe6a7eabb24a227e54d6c
+    projectPath: Library\Artifacts\7d\7d970f7247ebe6a7eabb24a227e54d6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7f\7f547368babf3e23332c422d320ff2f0
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7f\7f547368babf3e23332c422d320ff2f0
+    projectPath: Library\Artifacts\7f\7f547368babf3e23332c422d320ff2f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\7f\7f6990b4da6e8e48329bfd41553e8d61
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7f\7f6990b4da6e8e48329bfd41553e8d61
+    projectPath: Library\Artifacts\7f\7f6990b4da6e8e48329bfd41553e8d61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\80\802bc6179349f2eb49ce5050b2586755
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\80\802bc6179349f2eb49ce5050b2586755
+    projectPath: Library\Artifacts\80\802bc6179349f2eb49ce5050b2586755
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\81\81bd09c6a97a51b0b54f2242459fce7e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\81\81bd09c6a97a51b0b54f2242459fce7e
+    projectPath: Library\Artifacts\81\81bd09c6a97a51b0b54f2242459fce7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\82\82435cfd7d69033ac36c40a829e3e6b4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\82\82435cfd7d69033ac36c40a829e3e6b4
+    projectPath: Library\Artifacts\82\82435cfd7d69033ac36c40a829e3e6b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\84\84b0672f04aa7dcc304f390090e6ecf3
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\84\84b0672f04aa7dcc304f390090e6ecf3
+    projectPath: Library\Artifacts\84\84b0672f04aa7dcc304f390090e6ecf3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\85\856b0d99b9a2b3d6cfb0e3c624dfb0bd
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\85\856b0d99b9a2b3d6cfb0e3c624dfb0bd
+    projectPath: Library\Artifacts\85\856b0d99b9a2b3d6cfb0e3c624dfb0bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\86\86b649705d965ce4d9b4df0dc0a7a10f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\86\86b649705d965ce4d9b4df0dc0a7a10f
+    projectPath: Library\Artifacts\86\86b649705d965ce4d9b4df0dc0a7a10f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\86\86bdc457518fa2c82e1e75abf2f8eaf2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\86\86bdc457518fa2c82e1e75abf2f8eaf2
+    projectPath: Library\Artifacts\86\86bdc457518fa2c82e1e75abf2f8eaf2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\87\87b95a5e13180aca1b7be7894fa7ce35
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\87\87b95a5e13180aca1b7be7894fa7ce35
+    projectPath: Library\Artifacts\87\87b95a5e13180aca1b7be7894fa7ce35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\88\881cfc0d194c57df48d809947bb4f6d2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\88\881cfc0d194c57df48d809947bb4f6d2
+    projectPath: Library\Artifacts\88\881cfc0d194c57df48d809947bb4f6d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\88\883b6c2d760a4cbe4d0790eea27aa62e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\88\883b6c2d760a4cbe4d0790eea27aa62e
+    projectPath: Library\Artifacts\88\883b6c2d760a4cbe4d0790eea27aa62e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\88\885c50134ce05b0c60fddf5555c761e2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\88\885c50134ce05b0c60fddf5555c761e2
+    projectPath: Library\Artifacts\88\885c50134ce05b0c60fddf5555c761e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\88\8877f1a8164771215a6f4716276724eb
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\88\8877f1a8164771215a6f4716276724eb
+    projectPath: Library\Artifacts\88\8877f1a8164771215a6f4716276724eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\8b\8ba1f67967a2f11b0296949ea9f09e54
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\8b\8ba1f67967a2f11b0296949ea9f09e54
+    projectPath: Library\Artifacts\8b\8ba1f67967a2f11b0296949ea9f09e54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\8d\8d542f2756d02206198469c63bedc9c1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\8d\8d542f2756d02206198469c63bedc9c1
+    projectPath: Library\Artifacts\8d\8d542f2756d02206198469c63bedc9c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\90\901578bd7539b8587a95160e3341afa1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\90\901578bd7539b8587a95160e3341afa1
+    projectPath: Library\Artifacts\90\901578bd7539b8587a95160e3341afa1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\91\9100ce10303e5453db191b8223b9dcfe
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\91\9100ce10303e5453db191b8223b9dcfe
+    projectPath: Library\Artifacts\91\9100ce10303e5453db191b8223b9dcfe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\91\91a71ba49b14db2b31ecd15a846b279f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\91\91a71ba49b14db2b31ecd15a846b279f
+    projectPath: Library\Artifacts\91\91a71ba49b14db2b31ecd15a846b279f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\91\91cf16517767c672c5b8e6109eeccaaa
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\91\91cf16517767c672c5b8e6109eeccaaa
+    projectPath: Library\Artifacts\91\91cf16517767c672c5b8e6109eeccaaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\92\920695da8c25f08dbe8053fc5dc11bae
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\92\920695da8c25f08dbe8053fc5dc11bae
+    projectPath: Library\Artifacts\92\920695da8c25f08dbe8053fc5dc11bae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\92\92716fdf354fffdf396f78a25d2334fe
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\92\92716fdf354fffdf396f78a25d2334fe
+    projectPath: Library\Artifacts\92\92716fdf354fffdf396f78a25d2334fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\93\9385913e48db24fcd881cf930c25d36d
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\93\9385913e48db24fcd881cf930c25d36d
+    projectPath: Library\Artifacts\93\9385913e48db24fcd881cf930c25d36d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\93\93869c9a7fd31b96f461cf43d1da3c93
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\93\93869c9a7fd31b96f461cf43d1da3c93
+    projectPath: Library\Artifacts\93\93869c9a7fd31b96f461cf43d1da3c93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\93\93b1d40f265400c1c0eb039b5981c5bd
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\93\93b1d40f265400c1c0eb039b5981c5bd
+    projectPath: Library\Artifacts\93\93b1d40f265400c1c0eb039b5981c5bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\98\98bd7c2dbf46809938dab667962aca91
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\98\98bd7c2dbf46809938dab667962aca91
+    projectPath: Library\Artifacts\98\98bd7c2dbf46809938dab667962aca91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\99\9917ec39e2af1aa7eb7090ce613cdf43
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\99\9917ec39e2af1aa7eb7090ce613cdf43
+    projectPath: Library\Artifacts\99\9917ec39e2af1aa7eb7090ce613cdf43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\9a\9a8d516ac8c46d06a24caa4448068d7f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\9a\9a8d516ac8c46d06a24caa4448068d7f
+    projectPath: Library\Artifacts\9a\9a8d516ac8c46d06a24caa4448068d7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\9c\9c00bcde271e66429aee4f91df5d1b37
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\9c\9c00bcde271e66429aee4f91df5d1b37
+    projectPath: Library\Artifacts\9c\9c00bcde271e66429aee4f91df5d1b37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\9c\9c6e7ac51be7bb15c27dea8828907cb4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\9c\9c6e7ac51be7bb15c27dea8828907cb4
+    projectPath: Library\Artifacts\9c\9c6e7ac51be7bb15c27dea8828907cb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\9c\9c7e9c8c09d8446215fbf5668f08d394
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\9c\9c7e9c8c09d8446215fbf5668f08d394
+    projectPath: Library\Artifacts\9c\9c7e9c8c09d8446215fbf5668f08d394
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\9c\9ca9e8b804e9300e6f6bc7fa2283f915
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\9c\9ca9e8b804e9300e6f6bc7fa2283f915
+    projectPath: Library\Artifacts\9c\9ca9e8b804e9300e6f6bc7fa2283f915
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\9e\9e1a2a63f5076ec43e69fb2bad6e0111
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\9e\9e1a2a63f5076ec43e69fb2bad6e0111
+    projectPath: Library\Artifacts\9e\9e1a2a63f5076ec43e69fb2bad6e0111
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\9e\9ec65658c041b356d1182eaaccaeb77b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\9e\9ec65658c041b356d1182eaaccaeb77b
+    projectPath: Library\Artifacts\9e\9ec65658c041b356d1182eaaccaeb77b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\9f\9f5530f5e8e25de9f16c669e1679104d
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\9f\9f5530f5e8e25de9f16c669e1679104d
+    projectPath: Library\Artifacts\9f\9f5530f5e8e25de9f16c669e1679104d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a0\a0f1decd916573df91ad538c801bbb6f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a0\a0f1decd916573df91ad538c801bbb6f
+    projectPath: Library\Artifacts\a0\a0f1decd916573df91ad538c801bbb6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a1\a14a837aaf44bbe90f1e2887380f5811
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a1\a14a837aaf44bbe90f1e2887380f5811
+    projectPath: Library\Artifacts\a1\a14a837aaf44bbe90f1e2887380f5811
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a1\a173fd488c84d48ba15282fed5f114bc
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a1\a173fd488c84d48ba15282fed5f114bc
+    projectPath: Library\Artifacts\a1\a173fd488c84d48ba15282fed5f114bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a3\a39d76a724424ab815c788e4e94d6983
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a3\a39d76a724424ab815c788e4e94d6983
+    projectPath: Library\Artifacts\a3\a39d76a724424ab815c788e4e94d6983
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a3\a3d12a4420152cfef598c4e22d5fc42e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a3\a3d12a4420152cfef598c4e22d5fc42e
+    projectPath: Library\Artifacts\a3\a3d12a4420152cfef598c4e22d5fc42e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a4\a423e4d1cc6483f49de1fcf1872a26e4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a4\a423e4d1cc6483f49de1fcf1872a26e4
+    projectPath: Library\Artifacts\a4\a423e4d1cc6483f49de1fcf1872a26e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a4\a492ef3159c3387521334b59bc81f2b5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a4\a492ef3159c3387521334b59bc81f2b5
+    projectPath: Library\Artifacts\a4\a492ef3159c3387521334b59bc81f2b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a4\a4934a77e5b4fc2a093b99e9839ed5aa
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a4\a4934a77e5b4fc2a093b99e9839ed5aa
+    projectPath: Library\Artifacts\a4\a4934a77e5b4fc2a093b99e9839ed5aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a6\a61733eada45808632621254420a66fa
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a6\a61733eada45808632621254420a66fa
+    projectPath: Library\Artifacts\a6\a61733eada45808632621254420a66fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a6\a6b02d61c7b8b4adcc9bca534ecc1283
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a6\a6b02d61c7b8b4adcc9bca534ecc1283
+    projectPath: Library\Artifacts\a6\a6b02d61c7b8b4adcc9bca534ecc1283
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a6\a6fa0abf8fd4e6bdcfd6453efdf6cb14
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a6\a6fa0abf8fd4e6bdcfd6453efdf6cb14
+    projectPath: Library\Artifacts\a6\a6fa0abf8fd4e6bdcfd6453efdf6cb14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a7\a78305f31763aedc7861e379a1f69b3f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a7\a78305f31763aedc7861e379a1f69b3f
+    projectPath: Library\Artifacts\a7\a78305f31763aedc7861e379a1f69b3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a8\a85902fd0b91f59da7e4132d9ea30d5d
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a8\a85902fd0b91f59da7e4132d9ea30d5d
+    projectPath: Library\Artifacts\a8\a85902fd0b91f59da7e4132d9ea30d5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a9\a911bf5c2f19773ddc0ce776a1de7bc8
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a9\a911bf5c2f19773ddc0ce776a1de7bc8
+    projectPath: Library\Artifacts\a9\a911bf5c2f19773ddc0ce776a1de7bc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\a9\a91e550c9d8aff6625c238d52366c89a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a9\a91e550c9d8aff6625c238d52366c89a
+    projectPath: Library\Artifacts\a9\a91e550c9d8aff6625c238d52366c89a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ac\ac1404761899fe98ed951f73d2d9f9d2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ac\ac1404761899fe98ed951f73d2d9f9d2
+    projectPath: Library\Artifacts\ac\ac1404761899fe98ed951f73d2d9f9d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ad\ad07eadccff81e8a5d465850fac637b0
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ad\ad07eadccff81e8a5d465850fac637b0
+    projectPath: Library\Artifacts\ad\ad07eadccff81e8a5d465850fac637b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\af\af57f0701e203cf48b1528085014c167
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\af\af57f0701e203cf48b1528085014c167
+    projectPath: Library\Artifacts\af\af57f0701e203cf48b1528085014c167
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b0\b09819fab4396b1db558cac12b1159c2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b0\b09819fab4396b1db558cac12b1159c2
+    projectPath: Library\Artifacts\b0\b09819fab4396b1db558cac12b1159c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b1\b13eb872274d3faf14383badbaaf3618
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b1\b13eb872274d3faf14383badbaaf3618
+    projectPath: Library\Artifacts\b1\b13eb872274d3faf14383badbaaf3618
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b1\b1538c2998a58d753baef5234ef9953c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b1\b1538c2998a58d753baef5234ef9953c
+    projectPath: Library\Artifacts\b1\b1538c2998a58d753baef5234ef9953c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b1\b1746bcc9595371f674468cc24933777
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b1\b1746bcc9595371f674468cc24933777
+    projectPath: Library\Artifacts\b1\b1746bcc9595371f674468cc24933777
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b1\b1b08b5986720829c6531d7da5abbb22
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b1\b1b08b5986720829c6531d7da5abbb22
+    projectPath: Library\Artifacts\b1\b1b08b5986720829c6531d7da5abbb22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b1\b1c3f2f8930d77744a6fd921f3c70e63
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b1\b1c3f2f8930d77744a6fd921f3c70e63
+    projectPath: Library\Artifacts\b1\b1c3f2f8930d77744a6fd921f3c70e63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b3\b36db9f153a97f163ad5dffd919a410d
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b3\b36db9f153a97f163ad5dffd919a410d
+    projectPath: Library\Artifacts\b3\b36db9f153a97f163ad5dffd919a410d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b4\b45663adc97d7123b2c88a1e99049275
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b4\b45663adc97d7123b2c88a1e99049275
+    projectPath: Library\Artifacts\b4\b45663adc97d7123b2c88a1e99049275
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b5\b5cae22f52e6f4665f8bc0b08e5a5380
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b5\b5cae22f52e6f4665f8bc0b08e5a5380
+    projectPath: Library\Artifacts\b5\b5cae22f52e6f4665f8bc0b08e5a5380
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b5\b5e9ba346ab6874268e17ad8a7f47f0b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b5\b5e9ba346ab6874268e17ad8a7f47f0b
+    projectPath: Library\Artifacts\b5\b5e9ba346ab6874268e17ad8a7f47f0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b5\b5fcaaafa0f5c30ae7aa2c7664c2c27c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b5\b5fcaaafa0f5c30ae7aa2c7664c2c27c
+    projectPath: Library\Artifacts\b5\b5fcaaafa0f5c30ae7aa2c7664c2c27c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b6\b6e7763fc1c9d89ba324baadcee29dfa
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b6\b6e7763fc1c9d89ba324baadcee29dfa
+    projectPath: Library\Artifacts\b6\b6e7763fc1c9d89ba324baadcee29dfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b7\b723365e22f1db0da639d8d82e81c673
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b7\b723365e22f1db0da639d8d82e81c673
+    projectPath: Library\Artifacts\b7\b723365e22f1db0da639d8d82e81c673
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\b7\b74ae715794fa4640398387793bb154e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b7\b74ae715794fa4640398387793bb154e
+    projectPath: Library\Artifacts\b7\b74ae715794fa4640398387793bb154e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ba\ba39d4b55af6f2bc7ebcee49f2c1de95
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ba\ba39d4b55af6f2bc7ebcee49f2c1de95
+    projectPath: Library\Artifacts\ba\ba39d4b55af6f2bc7ebcee49f2c1de95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\bb\bb07378ed2f4f4821c2914b521b66184
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\bb\bb07378ed2f4f4821c2914b521b66184
+    projectPath: Library\Artifacts\bb\bb07378ed2f4f4821c2914b521b66184
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\bb\bbb9a2fdbd78413f2c045d6c521d2aec
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\bb\bbb9a2fdbd78413f2c045d6c521d2aec
+    projectPath: Library\Artifacts\bb\bbb9a2fdbd78413f2c045d6c521d2aec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\bb\bbcb36a7fc431bf9fe1820755e18cb19
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\bb\bbcb36a7fc431bf9fe1820755e18cb19
+    projectPath: Library\Artifacts\bb\bbcb36a7fc431bf9fe1820755e18cb19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\bc\bcce99a0564b537af1c8d52a748754d2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\bc\bcce99a0564b537af1c8d52a748754d2
+    projectPath: Library\Artifacts\bc\bcce99a0564b537af1c8d52a748754d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\be\be3c93ea4ac582551a7bbd00a6cb73e7
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\be\be3c93ea4ac582551a7bbd00a6cb73e7
+    projectPath: Library\Artifacts\be\be3c93ea4ac582551a7bbd00a6cb73e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\bf\bf4713cd4bc93ea762ef1c27a2a142e0
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\bf\bf4713cd4bc93ea762ef1c27a2a142e0
+    projectPath: Library\Artifacts\bf\bf4713cd4bc93ea762ef1c27a2a142e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\bf\bfac235ba483f2e1b733bf5f653a61e5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\bf\bfac235ba483f2e1b733bf5f653a61e5
+    projectPath: Library\Artifacts\bf\bfac235ba483f2e1b733bf5f653a61e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c0\c074e2b8228076f8ed8440a48689b0f3
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c0\c074e2b8228076f8ed8440a48689b0f3
+    projectPath: Library\Artifacts\c0\c074e2b8228076f8ed8440a48689b0f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c0\c0e3c5a3eda79b1a33553973e521ea26
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c0\c0e3c5a3eda79b1a33553973e521ea26
+    projectPath: Library\Artifacts\c0\c0e3c5a3eda79b1a33553973e521ea26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c1\c10030e5694384859d81e714801470da
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c1\c10030e5694384859d81e714801470da
+    projectPath: Library\Artifacts\c1\c10030e5694384859d81e714801470da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c1\c108f3cac21c7220854874bf11ec3815
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c1\c108f3cac21c7220854874bf11ec3815
+    projectPath: Library\Artifacts\c1\c108f3cac21c7220854874bf11ec3815
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c2\c2902d2bc2effa363e475d93cf4bfcdb
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c2\c2902d2bc2effa363e475d93cf4bfcdb
+    projectPath: Library\Artifacts\c2\c2902d2bc2effa363e475d93cf4bfcdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c4\c4036c7b26834247c6072f56c7a7b5ed
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c4\c4036c7b26834247c6072f56c7a7b5ed
+    projectPath: Library\Artifacts\c4\c4036c7b26834247c6072f56c7a7b5ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c4\c4611099649a4bb43e8b73c8be2b3352
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c4\c4611099649a4bb43e8b73c8be2b3352
+    projectPath: Library\Artifacts\c4\c4611099649a4bb43e8b73c8be2b3352
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c5\c5e5c4ead541b6d1e201459c6036b1f4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c5\c5e5c4ead541b6d1e201459c6036b1f4
+    projectPath: Library\Artifacts\c5\c5e5c4ead541b6d1e201459c6036b1f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c5\c5e6f7da3dc9c55d270b809bd8c86257
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c5\c5e6f7da3dc9c55d270b809bd8c86257
+    projectPath: Library\Artifacts\c5\c5e6f7da3dc9c55d270b809bd8c86257
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c6\c6715878ae9420f6a915c3ac16b7eeee
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c6\c6715878ae9420f6a915c3ac16b7eeee
+    projectPath: Library\Artifacts\c6\c6715878ae9420f6a915c3ac16b7eeee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c6\c6d54f5f02276d900b9860d3bfbf7b2e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c6\c6d54f5f02276d900b9860d3bfbf7b2e
+    projectPath: Library\Artifacts\c6\c6d54f5f02276d900b9860d3bfbf7b2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c8\c809f32aea81fe3ccbdce58421a374f7
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c8\c809f32aea81fe3ccbdce58421a374f7
+    projectPath: Library\Artifacts\c8\c809f32aea81fe3ccbdce58421a374f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c9\c9347570bb478e325eb32cb1a43bbd50
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c9\c9347570bb478e325eb32cb1a43bbd50
+    projectPath: Library\Artifacts\c9\c9347570bb478e325eb32cb1a43bbd50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\c9\c973d4c1469de8b7c047277eea2c0dc7
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c9\c973d4c1469de8b7c047277eea2c0dc7
+    projectPath: Library\Artifacts\c9\c973d4c1469de8b7c047277eea2c0dc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ca\ca859c05860ccf00df9c36a0688c99a6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ca\ca859c05860ccf00df9c36a0688c99a6
+    projectPath: Library\Artifacts\ca\ca859c05860ccf00df9c36a0688c99a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\cf\cf656fd303299bf555b5f47afb091681
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\cf\cf656fd303299bf555b5f47afb091681
+    projectPath: Library\Artifacts\cf\cf656fd303299bf555b5f47afb091681
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d0\d05a20e433a23c6dfe4c6f074dc316d9
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d0\d05a20e433a23c6dfe4c6f074dc316d9
+    projectPath: Library\Artifacts\d0\d05a20e433a23c6dfe4c6f074dc316d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d3\d3957e2c257141512484e76dea45b162
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d3\d3957e2c257141512484e76dea45b162
+    projectPath: Library\Artifacts\d3\d3957e2c257141512484e76dea45b162
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d4\d445095f2bc890aec059646bc827ae10
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d4\d445095f2bc890aec059646bc827ae10
+    projectPath: Library\Artifacts\d4\d445095f2bc890aec059646bc827ae10
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d5\d550f010dbb31960468325b8cae20e82
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d5\d550f010dbb31960468325b8cae20e82
+    projectPath: Library\Artifacts\d5\d550f010dbb31960468325b8cae20e82
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d7\d74acb3d1741fea3caef74255d9f5cbe
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d7\d74acb3d1741fea3caef74255d9f5cbe
+    projectPath: Library\Artifacts\d7\d74acb3d1741fea3caef74255d9f5cbe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d7\d77d9ccfcd70550b1730efd8e626a5ab
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d7\d77d9ccfcd70550b1730efd8e626a5ab
+    projectPath: Library\Artifacts\d7\d77d9ccfcd70550b1730efd8e626a5ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d8\d87c0498f609653134e0268a9c486c62
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d8\d87c0498f609653134e0268a9c486c62
+    projectPath: Library\Artifacts\d8\d87c0498f609653134e0268a9c486c62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d8\d8f5adbbdba728044d7970057dd99fdb
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d8\d8f5adbbdba728044d7970057dd99fdb
+    projectPath: Library\Artifacts\d8\d8f5adbbdba728044d7970057dd99fdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d9\d928de6994bae0f8793a93502c6c4fef
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d9\d928de6994bae0f8793a93502c6c4fef
+    projectPath: Library\Artifacts\d9\d928de6994bae0f8793a93502c6c4fef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d9\d975ee5860a3183568e80c8ba283162a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d9\d975ee5860a3183568e80c8ba283162a
+    projectPath: Library\Artifacts\d9\d975ee5860a3183568e80c8ba283162a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d9\d9ca6bb2caba32b0de1ee284cc48eefe
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d9\d9ca6bb2caba32b0de1ee284cc48eefe
+    projectPath: Library\Artifacts\d9\d9ca6bb2caba32b0de1ee284cc48eefe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\d9\d9de5477db674177e891745072fae898
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d9\d9de5477db674177e891745072fae898
+    projectPath: Library\Artifacts\d9\d9de5477db674177e891745072fae898
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\db\db770f0f634ef434e0be3658e7b886d2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\db\db770f0f634ef434e0be3658e7b886d2
+    projectPath: Library\Artifacts\db\db770f0f634ef434e0be3658e7b886d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\dd\dd0cd7f5d2291b02861cd25a590c50e3
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\dd\dd0cd7f5d2291b02861cd25a590c50e3
+    projectPath: Library\Artifacts\dd\dd0cd7f5d2291b02861cd25a590c50e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\dd\dd1a3023e506fcce1192d7d69881951a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\dd\dd1a3023e506fcce1192d7d69881951a
+    projectPath: Library\Artifacts\dd\dd1a3023e506fcce1192d7d69881951a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\dd\ddf93bcfc8415dcb4e8ca7612d62ce01
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\dd\ddf93bcfc8415dcb4e8ca7612d62ce01
+    projectPath: Library\Artifacts\dd\ddf93bcfc8415dcb4e8ca7612d62ce01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\de\de6619b14892a28d1b1e3659041549ab
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\de\de6619b14892a28d1b1e3659041549ab
+    projectPath: Library\Artifacts\de\de6619b14892a28d1b1e3659041549ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\df\dfb9f6ad29a827f43a9f5395644a0148
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\df\dfb9f6ad29a827f43a9f5395644a0148
+    projectPath: Library\Artifacts\df\dfb9f6ad29a827f43a9f5395644a0148
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\df\dfe32d48586091d1e565d195dcc2fc3c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\df\dfe32d48586091d1e565d195dcc2fc3c
+    projectPath: Library\Artifacts\df\dfe32d48586091d1e565d195dcc2fc3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e0\e0b8f3b28ce041141a92656de1d08af2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e0\e0b8f3b28ce041141a92656de1d08af2
+    projectPath: Library\Artifacts\e0\e0b8f3b28ce041141a92656de1d08af2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e1\e11f7281c3b1c1c900d5a5b4676fd15b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e1\e11f7281c3b1c1c900d5a5b4676fd15b
+    projectPath: Library\Artifacts\e1\e11f7281c3b1c1c900d5a5b4676fd15b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e1\e1b40ceb3d241af5008e05a6077e9562
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e1\e1b40ceb3d241af5008e05a6077e9562
+    projectPath: Library\Artifacts\e1\e1b40ceb3d241af5008e05a6077e9562
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e1\e1b5cfddc56925c85eba6428335c40d5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e1\e1b5cfddc56925c85eba6428335c40d5
+    projectPath: Library\Artifacts\e1\e1b5cfddc56925c85eba6428335c40d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e4\e419e8f3162831f196f91c02f95d71dd
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e4\e419e8f3162831f196f91c02f95d71dd
+    projectPath: Library\Artifacts\e4\e419e8f3162831f196f91c02f95d71dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e4\e49f893a56f95fb01c92e6ed66a7fa62
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e4\e49f893a56f95fb01c92e6ed66a7fa62
+    projectPath: Library\Artifacts\e4\e49f893a56f95fb01c92e6ed66a7fa62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e4\e4ea5971a3ee67c2d3fa3280aa32ce86
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e4\e4ea5971a3ee67c2d3fa3280aa32ce86
+    projectPath: Library\Artifacts\e4\e4ea5971a3ee67c2d3fa3280aa32ce86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e7\e72731ff5b921019f0d2e65dff66a48d
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e7\e72731ff5b921019f0d2e65dff66a48d
+    projectPath: Library\Artifacts\e7\e72731ff5b921019f0d2e65dff66a48d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e7\e74ecff3200f84cc22f3ac74fb911595
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e7\e74ecff3200f84cc22f3ac74fb911595
+    projectPath: Library\Artifacts\e7\e74ecff3200f84cc22f3ac74fb911595
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\e8\e8ebc851c3abdbe928025c1f235cabb5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e8\e8ebc851c3abdbe928025c1f235cabb5
+    projectPath: Library\Artifacts\e8\e8ebc851c3abdbe928025c1f235cabb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ea\ea2fea5ed8604271e1e8d5dc5d2ebc70
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ea\ea2fea5ed8604271e1e8d5dc5d2ebc70
+    projectPath: Library\Artifacts\ea\ea2fea5ed8604271e1e8d5dc5d2ebc70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\eb\eb02ce5aef2b2c53599bde2f3d404086
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\eb\eb02ce5aef2b2c53599bde2f3d404086
+    projectPath: Library\Artifacts\eb\eb02ce5aef2b2c53599bde2f3d404086
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\eb\eb4095ffe1c6140ee4bc48f0252d1c07
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\eb\eb4095ffe1c6140ee4bc48f0252d1c07
+    projectPath: Library\Artifacts\eb\eb4095ffe1c6140ee4bc48f0252d1c07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\eb\ebddd5ebde09d1f9e9182222fbce2ebf
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\eb\ebddd5ebde09d1f9e9182222fbce2ebf
+    projectPath: Library\Artifacts\eb\ebddd5ebde09d1f9e9182222fbce2ebf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ec\ec11776db6b74f0b67d383022f49bc4a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ec\ec11776db6b74f0b67d383022f49bc4a
+    projectPath: Library\Artifacts\ec\ec11776db6b74f0b67d383022f49bc4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ec\ec91f0248d25133c7cddbfa069d940e5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ec\ec91f0248d25133c7cddbfa069d940e5
+    projectPath: Library\Artifacts\ec\ec91f0248d25133c7cddbfa069d940e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ed\ed389433e4c6efdbfd7450ee229ab3e4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ed\ed389433e4c6efdbfd7450ee229ab3e4
+    projectPath: Library\Artifacts\ed\ed389433e4c6efdbfd7450ee229ab3e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ed\ed6d7f368d1596bd1762f1e358c64f1f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ed\ed6d7f368d1596bd1762f1e358c64f1f
+    projectPath: Library\Artifacts\ed\ed6d7f368d1596bd1762f1e358c64f1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ed\ed8750d3d3e1158ba5f41feaad10a7b8
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ed\ed8750d3d3e1158ba5f41feaad10a7b8
+    projectPath: Library\Artifacts\ed\ed8750d3d3e1158ba5f41feaad10a7b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ed\edcd568b273f6aba6212fe7237ce49c4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ed\edcd568b273f6aba6212fe7237ce49c4
+    projectPath: Library\Artifacts\ed\edcd568b273f6aba6212fe7237ce49c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ed\edf3d23b634a6237000f1d69ebccb406
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ed\edf3d23b634a6237000f1d69ebccb406
+    projectPath: Library\Artifacts\ed\edf3d23b634a6237000f1d69ebccb406
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ee\eeebee1b6bf04c3313c3eb17959a46d2
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ee\eeebee1b6bf04c3313c3eb17959a46d2
+    projectPath: Library\Artifacts\ee\eeebee1b6bf04c3313c3eb17959a46d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ef\ef625605218ab6a9042cc639f17a465a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ef\ef625605218ab6a9042cc639f17a465a
+    projectPath: Library\Artifacts\ef\ef625605218ab6a9042cc639f17a465a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f1\f1afbb0798921c62b1e4b5644ca48bb3
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f1\f1afbb0798921c62b1e4b5644ca48bb3
+    projectPath: Library\Artifacts\f1\f1afbb0798921c62b1e4b5644ca48bb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f2\f2520ee3833825ad407dac14d153ae15
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f2\f2520ee3833825ad407dac14d153ae15
+    projectPath: Library\Artifacts\f2\f2520ee3833825ad407dac14d153ae15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f2\f2dfe2ddd54c29d14ad262045862f166
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f2\f2dfe2ddd54c29d14ad262045862f166
+    projectPath: Library\Artifacts\f2\f2dfe2ddd54c29d14ad262045862f166
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f3\f377b3214f203fcf7fc7d9159738239c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f3\f377b3214f203fcf7fc7d9159738239c
+    projectPath: Library\Artifacts\f3\f377b3214f203fcf7fc7d9159738239c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f4\f42c33137f82fcb014936396b54be4b6
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f4\f42c33137f82fcb014936396b54be4b6
+    projectPath: Library\Artifacts\f4\f42c33137f82fcb014936396b54be4b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f5\f58a6cfcf5beb428031471d30e7cdf96
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f5\f58a6cfcf5beb428031471d30e7cdf96
+    projectPath: Library\Artifacts\f5\f58a6cfcf5beb428031471d30e7cdf96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f7\f72db56c066fd1311d7bdfc1ceeb4256
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f7\f72db56c066fd1311d7bdfc1ceeb4256
+    projectPath: Library\Artifacts\f7\f72db56c066fd1311d7bdfc1ceeb4256
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f8\f8d666acccbf36908389fc664cbef82c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f8\f8d666acccbf36908389fc664cbef82c
+    projectPath: Library\Artifacts\f8\f8d666acccbf36908389fc664cbef82c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\fa\fac3c52bf673f814e5cee2ca3b0403c1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\fa\fac3c52bf673f814e5cee2ca3b0403c1
+    projectPath: Library\Artifacts\fa\fac3c52bf673f814e5cee2ca3b0403c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\fa\fadb224f20fc2e349e3e94bd8b6db28a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\fa\fadb224f20fc2e349e3e94bd8b6db28a
+    projectPath: Library\Artifacts\fa\fadb224f20fc2e349e3e94bd8b6db28a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\fb\fba18cb54e91ed6f9e985e7e82934932
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\fb\fba18cb54e91ed6f9e985e7e82934932
+    projectPath: Library\Artifacts\fb\fba18cb54e91ed6f9e985e7e82934932
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\fc\fc324a9ee16de6b4ee7447bff333daff
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\fc\fc324a9ee16de6b4ee7447bff333daff
+    projectPath: Library\Artifacts\fc\fc324a9ee16de6b4ee7447bff333daff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\fc\fc73017fa859fe191f15766738fd396a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\fc\fc73017fa859fe191f15766738fd396a
+    projectPath: Library\Artifacts\fc\fc73017fa859fe191f15766738fd396a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\fc\fcb0309d11d7d9e4969309bd51ef0fca
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\fc\fcb0309d11d7d9e4969309bd51ef0fca
+    projectPath: Library\Artifacts\fc\fcb0309d11d7d9e4969309bd51ef0fca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\fe\fec6b910358bfbf2e3d6671a81cd99ab
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\fe\fec6b910358bfbf2e3d6671a81cd99ab
+    projectPath: Library\Artifacts\fe\fec6b910358bfbf2e3d6671a81cd99ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: PandemicTrails\Library\Collab\CollabSnapshot_a33b09b1-48a7-4a83-a179-89804dd8b1c5.txt
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Collab\CollabSnapshot_a33b09b1-48a7-4a83-a179-89804dd8b1c5.txt
     projectPath: Library\Collab\CollabSnapshot_a33b09b1-48a7-4a83-a179-89804dd8b1c5.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -67,6 +3118,12 @@ MonoBehaviour:
   - path: PandemicTrails\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -802,15 +3859,123 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: PandemicTrails\Library\ShaderCache\2\24e2e507fdf9ce8acfa717ef33324954.bin
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ShaderCache\2\24e2e507fdf9ce8acfa717ef33324954.bin
+    projectPath: Library\ShaderCache\2\24e2e507fdf9ce8acfa717ef33324954.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\ShaderCache\2\2e60da3c5c28333bfe040a3d48d7d21b.bin
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ShaderCache\2\2e60da3c5c28333bfe040a3d48d7d21b.bin
+    projectPath: Library\ShaderCache\2\2e60da3c5c28333bfe040a3d48d7d21b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\ShaderCache\5\524ec3ab5e9c0c2339e942d72989160e.bin
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ShaderCache\5\524ec3ab5e9c0c2339e942d72989160e.bin
+    projectPath: Library\ShaderCache\5\524ec3ab5e9c0c2339e942d72989160e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\ShaderCache\5\55dcbe7fcc83cedcb8f70adaedbaa9b1.bin
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ShaderCache\5\55dcbe7fcc83cedcb8f70adaedbaa9b1.bin
+    projectPath: Library\ShaderCache\5\55dcbe7fcc83cedcb8f70adaedbaa9b1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PandemicTrails\Library\SourceAssetDB
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: PandemicTrails\Library\StateCache\MainStageHierarchy\d5\d5693e1bccb3ff256c6cf9a5b545c69d.json
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\StateCache\MainStageHierarchy\d5\d5693e1bccb3ff256c6cf9a5b545c69d.json
+    projectPath: Library\StateCache\MainStageHierarchy\d5\d5693e1bccb3ff256c6cf9a5b545c69d.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\StateCache\PrefabStageHierarchy\1f\1fb5ddca2e37a0dcbe477995cc615ff9.json
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\StateCache\PrefabStageHierarchy\1f\1fb5ddca2e37a0dcbe477995cc615ff9.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\1f\1fb5ddca2e37a0dcbe477995cc615ff9.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\StateCache\SceneView\74\74d2e46db2860e32b5e8018b85eb5caf.json
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\StateCache\SceneView\74\74d2e46db2860e32b5e8018b85eb5caf.json
+    projectPath: Library\StateCache\SceneView\74\74d2e46db2860e32b5e8018b85eb5caf.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\StateCache\SceneView\a4\a4e4509cbda75227a7467ee46d39f4c0.json
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\StateCache\SceneView\a4\a4e4509cbda75227a7467ee46d39f4c0.json
+    projectPath: Library\StateCache\SceneView\a4\a4e4509cbda75227a7467ee46d39f4c0.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: PandemicTrails\Temp\UnityLockfile
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-0ea027a0691cd0d4fabf0d34eba3159b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-0ea027a0691cd0d4fabf0d34eba3159b
+    projectPath: Temp\UnityTempFile-0ea027a0691cd0d4fabf0d34eba3159b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-67c5831bec2d57c418e991f6392ba2f3
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-67c5831bec2d57c418e991f6392ba2f3
+    projectPath: Temp\UnityTempFile-67c5831bec2d57c418e991f6392ba2f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-e9c08f90fe7482e44b653adc81d2e33c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-e9c08f90fe7482e44b653adc81d2e33c
+    projectPath: Temp\UnityTempFile-e9c08f90fe7482e44b653adc81d2e33c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-fae635c2552ddd140b6632e7efd6e525
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-fae635c2552ddd140b6632e7efd6e525
+    projectPath: Temp\UnityTempFile-fae635c2552ddd140b6632e7efd6e525
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
