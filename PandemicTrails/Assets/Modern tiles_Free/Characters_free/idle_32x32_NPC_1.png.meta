@@ -1,7 +1,85 @@
 fileFormatVersion: 2
 guid: ac2a2088328bef644a3f8f87b0d6fb71
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8868173775128440843
+    second: idle_32x32_NPC_1_0
+  - first:
+      213: -8966472181028362275
+    second: idle_32x32_NPC_1_1
+  - first:
+      213: 3850336932758145033
+    second: idle_32x32_NPC_1_2
+  - first:
+      213: 6265505196510209280
+    second: idle_32x32_NPC_1_3
+  - first:
+      213: -6424047901147685625
+    second: idle_32x32_NPC_1_4
+  - first:
+      213: -5285265888732793235
+    second: idle_32x32_NPC_1_5
+  - first:
+      213: 4773301638585521537
+    second: idle_32x32_NPC_1_6
+  - first:
+      213: -4447768457004494301
+    second: idle_32x32_NPC_1_7
+  - first:
+      213: 1167220107042608
+    second: idle_32x32_NPC_1_8
+  - first:
+      213: -2947090105284506805
+    second: idle_32x32_NPC_1_9
+  - first:
+      213: -4079825635710134904
+    second: idle_32x32_NPC_1_10
+  - first:
+      213: 8368345679477422249
+    second: idle_32x32_NPC_1_11
+  - first:
+      213: -5048379720785354227
+    second: idle_32x32_NPC_1_12
+  - first:
+      213: -1792688425299101338
+    second: idle_32x32_NPC_1_13
+  - first:
+      213: -3157315250586324371
+    second: idle_32x32_NPC_1_14
+  - first:
+      213: -8302059075946888314
+    second: idle_32x32_NPC_1_15
+  - first:
+      213: 4864108959608385537
+    second: idle_32x32_NPC_1_16
+  - first:
+      213: -4364248032076116176
+    second: idle_32x32_NPC_1_17
+  - first:
+      213: 544427629165178190
+    second: idle_32x32_NPC_1_18
+  - first:
+      213: 5065213733364597677
+    second: idle_32x32_NPC_1_19
+  - first:
+      213: 3429358916026926215
+    second: idle_32x32_NPC_1_20
+  - first:
+      213: -6165740197552584521
+    second: idle_32x32_NPC_1_21
+  - first:
+      213: -7959964748248337673
+    second: idle_32x32_NPC_1_22
+  - first:
+      213: -2907290435099083735
+    second: idle_32x32_NPC_1_23
+  - first:
+      213: 6389790994196281213
+    second: idle_32x32_NPC_1_24
+  - first:
+      213: 4408271028595319374
+    second: idle_32x32_NPC_1_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +119,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,9 +151,105 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: idle_32x32_NPC_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42e11df4235d2d30800000000000000
+      internalID: 4408271028595319374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_32x32_NPC_1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e169ce01b09380800000000000000
+      internalID: -8966472181028362275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_32x32_NPC_1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908cd965a052f6530800000000000000
+      internalID: 3850336932758145033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_32x32_NPC_1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ea58b7cb83f650800000000000000
+      internalID: 6265505196510209280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

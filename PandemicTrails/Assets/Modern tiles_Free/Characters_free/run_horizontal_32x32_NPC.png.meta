@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: 652195a4c2db44947a02cd12a6423b2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4322170809699413342
+    second: run_horizontal_32x32_NPC_0
+  - first:
+      213: 3283878247922700809
+    second: run_horizontal_32x32_NPC_1
+  - first:
+      213: -7513211526844526737
+    second: run_horizontal_32x32_NPC_2
+  - first:
+      213: 1220693675928499870
+    second: run_horizontal_32x32_NPC_3
+  - first:
+      213: -758763723734283682
+    second: run_horizontal_32x32_NPC_4
+  - first:
+      213: -2295186207289921174
+    second: run_horizontal_32x32_NPC_5
+  - first:
+      213: -1442301671296137631
+    second: run_horizontal_32x32_NPC_6
+  - first:
+      213: 3927234092133062562
+    second: run_horizontal_32x32_NPC_7
+  - first:
+      213: -1040627213970370730
+    second: run_horizontal_32x32_NPC_8
+  - first:
+      213: 1691783914210847931
+    second: run_horizontal_32x32_NPC_9
+  - first:
+      213: -1436432187361483089
+    second: run_horizontal_32x32_NPC_10
+  - first:
+      213: 4985435875879851320
+    second: run_horizontal_32x32_NPC_11
+  - first:
+      213: -6796947130205792329
+    second: run_horizontal_32x32_NPC_12
+  - first:
+      213: 676838048531692861
+    second: run_horizontal_32x32_NPC_13
+  - first:
+      213: -442900155641763767
+    second: run_horizontal_32x32_NPC_14
+  - first:
+      213: -3269230800270767251
+    second: run_horizontal_32x32_NPC_15
+  - first:
+      213: 6138027658119856554
+    second: run_horizontal_32x32_NPC_16
+  - first:
+      213: -9140300628529263046
+    second: run_horizontal_32x32_NPC_17
+  - first:
+      213: 6175717379989238392
+    second: run_horizontal_32x32_NPC_18
+  - first:
+      213: 405733852945289837
+    second: run_horizontal_32x32_NPC_19
+  - first:
+      213: -2704348621946564603
+    second: run_horizontal_32x32_NPC_20
+  - first:
+      213: 7955153609207412787
+    second: run_horizontal_32x32_NPC_21
+  - first:
+      213: 6449284999906826200
+    second: run_horizontal_32x32_NPC_22
+  - first:
+      213: 1830297383391605621
+    second: run_horizontal_32x32_NPC_23
+  - first:
+      213: 6658682274839118364
+    second: run_horizontal_32x32_NPC_24
+  - first:
+      213: 5913525131650876646
+    second: run_horizontal_32x32_NPC_25
+  - first:
+      213: -7995476809681560690
+    second: run_horizontal_32x32_NPC_26
+  - first:
+      213: 8440535653623741565
+    second: run_horizontal_32x32_NPC_27
+  - first:
+      213: -2327031089914937457
+    second: run_horizontal_32x32_NPC_28
+  - first:
+      213: -7948369621405552764
+    second: run_horizontal_32x32_NPC_29
+  - first:
+      213: -3996452430783303307
+    second: run_horizontal_32x32_NPC_30
+  - first:
+      213: 9193259846164152369
+    second: run_horizontal_32x32_NPC_31
+  - first:
+      213: -4176101514880559820
+    second: run_horizontal_32x32_NPC_32
+  - first:
+      213: 1842315692613762721
+    second: run_horizontal_32x32_NPC_33
+  - first:
+      213: -8661590842872468661
+    second: run_horizontal_32x32_NPC_34
+  - first:
+      213: 4701591896429278596
+    second: run_horizontal_32x32_NPC_35
+  - first:
+      213: 4878825923719365889
+    second: run_horizontal_32x32_NPC_36
+  - first:
+      213: -2219171904444162393
+    second: run_horizontal_32x32_NPC_37
+  - first:
+      213: -1308654069717432610
+    second: run_horizontal_32x32_NPC_38
+  - first:
+      213: 1517536533502103659
+    second: run_horizontal_32x32_NPC_39
+  - first:
+      213: 2686702187668830441
+    second: run_horizontal_32x32_NPC_40
+  - first:
+      213: -5397463964602782502
+    second: run_horizontal_32x32_NPC_41
+  - first:
+      213: -4920846414497647567
+    second: run_horizontal_32x32_NPC_42
+  - first:
+      213: -5625825593614594118
+    second: run_horizontal_32x32_NPC_43
+  - first:
+      213: -6471227029261133888
+    second: run_horizontal_32x32_NPC_44
+  - first:
+      213: -565513765632681602
+    second: run_horizontal_32x32_NPC_45
+  - first:
+      213: 6030394517191851700
+    second: run_horizontal_32x32_NPC_46
+  - first:
+      213: -6207043179370233572
+    second: run_horizontal_32x32_NPC_47
+  - first:
+      213: 4142910879471338963
+    second: run_horizontal_32x32_NPC_48
+  - first:
+      213: -1368234000973512943
+    second: run_horizontal_32x32_NPC_49
+  - first:
+      213: -3261916108614702321
+    second: run_horizontal_32x32_NPC_50
+  - first:
+      213: 410239441602844689
+    second: run_horizontal_32x32_NPC_51
+  - first:
+      213: 120208902419555253
+    second: run_horizontal_32x32_NPC_52
+  - first:
+      213: 7988895582978176882
+    second: run_horizontal_32x32_NPC_53
+  - first:
+      213: 5458390679707070545
+    second: run_horizontal_32x32_NPC_54
+  - first:
+      213: -5635452809021071079
+    second: run_horizontal_32x32_NPC_55
+  - first:
+      213: 4187393151963150667
+    second: run_horizontal_32x32_NPC_56
+  - first:
+      213: -7658559233384694816
+    second: run_horizontal_32x32_NPC_57
+  - first:
+      213: 6195324697243288430
+    second: run_horizontal_32x32_NPC_58
+  - first:
+      213: -740455159577661330
+    second: run_horizontal_32x32_NPC_59
+  - first:
+      213: -520176533670256296
+    second: run_horizontal_32x32_NPC_60
+  - first:
+      213: -7657234482105499844
+    second: run_horizontal_32x32_NPC_61
+  - first:
+      213: -785374294127011878
+    second: run_horizontal_32x32_NPC_62
+  - first:
+      213: 1750570879802208715
+    second: run_horizontal_32x32_NPC_63
+  - first:
+      213: -299299522848635708
+    second: run_horizontal_32x32_NPC_64
+  - first:
+      213: -6434131754129035646
+    second: run_horizontal_32x32_NPC_65
+  - first:
+      213: 5614282096943446736
+    second: run_horizontal_32x32_NPC_66
+  - first:
+      213: -8591790191745499315
+    second: run_horizontal_32x32_NPC_67
+  - first:
+      213: 186736776927484161
+    second: run_horizontal_32x32_NPC_68
+  - first:
+      213: -134923988110897329
+    second: run_horizontal_32x32_NPC_69
+  - first:
+      213: -5041241287842779694
+    second: run_horizontal_32x32_NPC_70
+  - first:
+      213: -8306851451106010973
+    second: run_horizontal_32x32_NPC_71
+  - first:
+      213: -106182272532540371
+    second: run_horizontal_32x32_NPC_72
+  - first:
+      213: 5665688615927097534
+    second: run_horizontal_32x32_NPC_73
+  - first:
+      213: -2136111950698551475
+    second: run_horizontal_32x32_NPC_74
+  - first:
+      213: 2601422431613354022
+    second: run_horizontal_32x32_NPC_75
+  - first:
+      213: 6038817208598491986
+    second: run_horizontal_32x32_NPC_76
+  - first:
+      213: 7652921377612242106
+    second: run_horizontal_32x32_NPC_77
+  - first:
+      213: 7580633529219102778
+    second: run_horizontal_32x32_NPC_78
+  - first:
+      213: 4849004583302184079
+    second: run_horizontal_32x32_NPC_79
+  - first:
+      213: -834517162307021878
+    second: run_horizontal_32x32_NPC_80
+  - first:
+      213: 8602879625741913159
+    second: run_horizontal_32x32_NPC_81
+  - first:
+      213: 2139449294362679963
+    second: run_horizontal_32x32_NPC_82
+  - first:
+      213: -5497876328094897846
+    second: run_horizontal_32x32_NPC_83
+  - first:
+      213: 4264335374146712613
+    second: run_horizontal_32x32_NPC_84
+  - first:
+      213: -1972365823649560899
+    second: run_horizontal_32x32_NPC_85
+  - first:
+      213: 2807698487910836031
+    second: run_horizontal_32x32_NPC_86
+  - first:
+      213: 4908359986417769032
+    second: run_horizontal_32x32_NPC_87
+  - first:
+      213: 8709450074413610320
+    second: run_horizontal_32x32_NPC_88
+  - first:
+      213: 5145370755104790465
+    second: run_horizontal_32x32_NPC_89
+  - first:
+      213: -6803356660136108564
+    second: run_horizontal_32x32_NPC_90
+  - first:
+      213: -4338174678294492949
+    second: run_horizontal_32x32_NPC_91
+  - first:
+      213: -2276976443334439653
+    second: run_horizontal_32x32_NPC_92
+  - first:
+      213: 2525306676608070012
+    second: run_horizontal_32x32_NPC_93
+  - first:
+      213: 1100115609288947907
+    second: run_horizontal_32x32_NPC_94
+  - first:
+      213: 5887967115833397626
+    second: run_horizontal_32x32_NPC_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2dd456c809404c0800000000000000
+      internalID: -4322170809699413342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90290152edda29d20800000000000000
+      internalID: 3283878247922700809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fcf0c4ce5bbb790800000000000000
+      internalID: -7513211526844526737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96b8454e66c0f010800000000000000
+      internalID: 1220693675928499870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a8d52d9645875f0800000000000000
+      internalID: -758763723734283682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61bb1d0e4cd520e0800000000000000
+      internalID: -2295186207289921174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1660177854aebfbe0800000000000000
+      internalID: -1442301671296137631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a715637996508630800000000000000
+      internalID: 3927234092133062562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f01b7ff03fe81f0800000000000000
+      internalID: -1040627213970370730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbce14ba18c6a7710800000000000000
+      internalID: 1691783914210847931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a1604984c01ce0800000000000000
+      internalID: -1436432187361483089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8359e40e383df2540800000000000000
+      internalID: 4985435875879851320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b719fac8946ca1a0800000000000000
+      internalID: -6796947130205792329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d333d7e9c946900800000000000000
+      internalID: 676838048531692861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948e100b7a08ad9f0800000000000000
+      internalID: -442900155641763767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b481588eb51a2d0800000000000000
+      internalID: -3269230800270767251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1c1c762a7ae2550800000000000000
+      internalID: 6138027658119856554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ecb387101272180800000000000000
+      internalID: -9140300628529263046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872f67b9c3e84b550800000000000000
+      internalID: 6175717379989238392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6297222ac471a500800000000000000
+      internalID: 405733852945289837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500de00b149387ad0800000000000000
+      internalID: -2704348621946564603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33879723f02666e60800000000000000
+      internalID: 7955153609207412787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d793b2a986708950800000000000000
+      internalID: 6449284999906826200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_horizontal_32x32_NPC_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573326ad5c5866910800000000000000
+      internalID: 1830297383391605621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

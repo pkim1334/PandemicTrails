@@ -16,19 +16,17 @@ public class NPCMovement : MonoBehaviour
 
 	int waypointIndex = 0;
 
-	void Start () {
+	void Start() {
 		transform.position = waypoints [waypointIndex].transform.position;
-	}
+	} // End of Start().
 
-	void Update () {
+	void Update() {
 
-		Move ();
+		Move();
 
-	}
+	} // End of Update().
 
-	void Move()
-
-	{
+	void Move() {
 		transform.position = Vector3.MoveTowards (transform.position,
 												waypoints[waypointIndex].transform.position,
 												moveSpeed * Time.deltaTime);
@@ -42,7 +40,7 @@ public class NPCMovement : MonoBehaviour
 			waypointIndex = 0;
       updateAnimation();
 
-	}
+	} // End of Move().
 
   void updateAnimation() {
 
@@ -50,15 +48,7 @@ public class NPCMovement : MonoBehaviour
     ani.SetFloat("move_y", movement.y);
     //ani.SetFloat("Speed", movement.sqrMagnitude);
 
-  }
-
-
-
-
-
-
-
-
+  } // End of UpdateAnimation().
 
 
 
