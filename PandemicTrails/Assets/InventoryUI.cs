@@ -2,12 +2,12 @@
 
 public class InventoryUI : MonoBehaviour
 {
-    Inventory inventory;
+    //Inventory inventory;
     // Start is called before the first frame update
     void Start()
     {
-        inventory = Inventory.instance;
-        inventory.onItemChangeCallBack += UpdateUI;
+        //inventory = Inventory.instance;
+        //inventory.onItemChangeCallBack += UpdateUI;
     }
 
     // Update is called once per frame
