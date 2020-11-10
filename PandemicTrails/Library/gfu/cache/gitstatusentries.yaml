@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2020-11-07T18:27:23.435-05:00
   initializedAtString: 2020-11-07T17:54:51.865-05:00
   entries:
@@ -1596,12 +1597,66 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+  lastUpdatedAtString: 2020-11-06T09:53:10.974-05:00
+  initializedAtString: 2020-11-06T09:26:04.485-05:00
+  entries:
+  - path: PandemicTrails\Assets\Script\NPC_1_Dialog.cs
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Assets\Script\NPC_1_Dialog.cs
+    projectPath: Assets\Script\NPC_1_Dialog.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\Script\NPC_1_Dialog.cs.meta
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Assets\Script\NPC_1_Dialog.cs.meta
+    projectPath: Assets\Script\NPC_1_Dialog.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\ArtifactDB
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\Artifacts\11\1199b9e496607e411b30c68a8612956e
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\11\1199b9e496607e411b30c68a8612956e
+    projectPath: Library\Artifacts\11\1199b9e496607e411b30c68a8612956e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\19\19c5cdf16b8766c8b06050cc92da151c
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\19\19c5cdf16b8766c8b06050cc92da151c
+    projectPath: Library\Artifacts\19\19c5cdf16b8766c8b06050cc92da151c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\45\45b4293e8af4f4a42cb6ce197936f3d2
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\45\45b4293e8af4f4a42cb6ce197936f3d2
+    projectPath: Library\Artifacts\45\45b4293e8af4f4a42cb6ce197936f3d2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: PandemicTrails\Library\Artifacts\b4\b4517e65433714d62b47732766b51eaa
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\b4\b4517e65433714d62b47732766b51eaa
+    projectPath: Library\Artifacts\b4\b4517e65433714d62b47732766b51eaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ed\ed8fa88e6b4c61bbe3acd71008b21ae2
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\ed\ed8fa88e6b4c61bbe3acd71008b21ae2
+    projectPath: Library\Artifacts\ed\ed8fa88e6b4c61bbe3acd71008b21ae2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+>>>>>>> Stashed changes
   - path: PandemicTrails\Library\EditorInstance.json
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+<<<<<<< Updated upstream
   - path: PandemicTrails\Library\expandedItems
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\expandedItems
     projectPath: Library\expandedItems
@@ -1614,6 +1669,8 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+>>>>>>> Stashed changes
   - path: PandemicTrails\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -2400,18 +2457,22 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< Updated upstream
   - path: PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+>>>>>>> Stashed changes
   - path: PandemicTrails\Library\SourceAssetDB
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< Updated upstream
   - path: PandemicTrails\Library\StateCache\MainStageHierarchy\20\208aea551d595a15a8b84b2af45feaa5.json
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\StateCache\MainStageHierarchy\20\208aea551d595a15a8b84b2af45feaa5.json
     projectPath: Library\StateCache\MainStageHierarchy\20\208aea551d595a15a8b84b2af45feaa5.json
@@ -2421,12 +2482,77 @@ MonoBehaviour:
   - path: PandemicTrails\Library\StateCache\SceneView\4c\4c3d765944ed357b9d39cdaf488491f8.json
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\StateCache\SceneView\4c\4c3d765944ed357b9d39cdaf488491f8.json
     projectPath: Library\StateCache\SceneView\4c\4c3d765944ed357b9d39cdaf488491f8.json
+=======
+  - path: PandemicTrails\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+>>>>>>> Stashed changes
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: PandemicTrails\Temp\UnityLockfile
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-08b29ecf8dfd1574e90dd8993937e2b2
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-08b29ecf8dfd1574e90dd8993937e2b2
+    projectPath: Temp\UnityTempFile-08b29ecf8dfd1574e90dd8993937e2b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-0d00988f6d62317478c51caf9c1add27
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-0d00988f6d62317478c51caf9c1add27
+    projectPath: Temp\UnityTempFile-0d00988f6d62317478c51caf9c1add27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-17680dc28679f224fb392131405c6791
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-17680dc28679f224fb392131405c6791
+    projectPath: Temp\UnityTempFile-17680dc28679f224fb392131405c6791
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-1bcbde58ae3235e499f3bafde776ae59
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-1bcbde58ae3235e499f3bafde776ae59
+    projectPath: Temp\UnityTempFile-1bcbde58ae3235e499f3bafde776ae59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-442c0c686d0207d4da61075ccc5057d0
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-442c0c686d0207d4da61075ccc5057d0
+    projectPath: Temp\UnityTempFile-442c0c686d0207d4da61075ccc5057d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-94efd4f3c2b64a2479a43a712212a2d6
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-94efd4f3c2b64a2479a43a712212a2d6
+    projectPath: Temp\UnityTempFile-94efd4f3c2b64a2479a43a712212a2d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-9c40dff3b99c13e4dadcb9f2bba815ce
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-9c40dff3b99c13e4dadcb9f2bba815ce
+    projectPath: Temp\UnityTempFile-9c40dff3b99c13e4dadcb9f2bba815ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-ff2da1b6ee9c0204fa0abc32c4ca3e28
+    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-ff2da1b6ee9c0204fa0abc32c4ca3e28
+    projectPath: Temp\UnityTempFile-ff2da1b6ee9c0204fa0abc32c4ca3e28
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
