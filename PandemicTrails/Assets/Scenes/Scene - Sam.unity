@@ -493,7 +493,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 44038030}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.122, y: 0.33, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1709575069}
@@ -3509,9 +3509,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.2}
+  m_Offset: {x: 0, y: -0.4651273}
   serializedVersion: 2
-  m_Radius: 0.19
+  m_Radius: 0.5594397
 --- !u!50 &108879010
 Rigidbody2D:
   serializedVersion: 4
@@ -3570,8 +3570,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1484134473
+  m_SortingLayer: 1
   m_SortingOrder: 3
   m_Sprite: {fileID: 6265505196510209280, guid: ac2a2088328bef644a3f8f87b0d6fb71,
     type: 3}
@@ -3599,8 +3599,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1753233828}
   dialogText: {fileID: 834063896}
-  dialog: Maskhole
-  dialogActive: 0
+  dialog: Why are you wearing a mask? Don'tcha know Corona is a hoax? *cough cough*
+  playerInRange: 0
 --- !u!58 &108879013
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -3614,9 +3614,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.7069285, y: -0.19999993}
+  m_Offset: {x: 0.006486416, y: -0.69071245}
   serializedVersion: 2
-  m_Radius: 0.8969288
+  m_Radius: 0.78608704
 --- !u!1 &160549714
 GameObject:
   m_ObjectHideFlags: 0
@@ -9194,7 +9194,7 @@ GameObject:
   - component: {fileID: 1348045045}
   m_Layer: 0
   m_Name: player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9336,8 +9336,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1318940939
+  m_SortingLayer: 2
   m_SortingOrder: 3
   m_Sprite: {fileID: 3342477244361338307, guid: e5dd14d78a53f864b8f518a1903b26bb,
     type: 3}
@@ -9998,7 +9998,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1753233829
 RectTransform:
   m_ObjectHideFlags: 0

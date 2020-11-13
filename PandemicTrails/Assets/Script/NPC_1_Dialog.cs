@@ -8,7 +8,7 @@ public class NPC_1_Dialog : MonoBehaviour {
     public GameObject dialogBox;
     public Text dialogText;
     public string dialog;
-    public bool dialogActive;
+    public bool playerInRange;
 
     // Start is called before the first frame update
     void Start() {
@@ -18,13 +18,31 @@ public class NPC_1_Dialog : MonoBehaviour {
     // Update is called once per frame
     void Update() {
 
+      if(Input.GetKeyDown(KeyCode.Space) && playerInRange) {
+
+        if(dialogBox.activeInHierarchy) {
+
+          dialogBox.SetActive(false);
+
+        } // End of inner if-statement.
+
+        else {
+
+          dialogBox.SetActive(true);
+
+          dialogText.text = dialog;
+
+        } // End of else-statement.
+
+      } // End of outer if-statement.
+
     } // End of Update().
 
     private void OnTriggerEnter2D(Collider2D other) {
 
-      if(other.CompareTag("player")) {
+      if(other.CompareTag("Player")) {
 
-        Debug.Log("Player in range.");
+        playerInRange = true;
 
       } // End of if-statement.
 
@@ -32,9 +50,11 @@ public class NPC_1_Dialog : MonoBehaviour {
 
     private void OnTriggerExit2D(Collider2D other) {
 
-      if(other.CompareTag("player")) {
+      if(other.CompareTag("Player")) {
 
-        Debug.Log("Player left range.");
+        playerInRange = false;
+
+        dialogBox.SetActive(false);
 
       } // End of if-statement.
 
