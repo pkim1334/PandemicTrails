@@ -1,9 +1,16 @@
-﻿using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-[CreateAssetMenu(fileName = "New Item", menuName = "Inventory/Item")]
-public class Item : ScriptableObject
+public class Item : MonoBehaviour
 {
-    new public string name = "New Item";
     public Sprite icon = null;
-    public bool isDefaultItem = false;
+    [SerializeField] private ItemType itemType;
+    public enum ItemType{
+      key,
+      money
+    }
+    public ItemType GetItemType(){
+        return itemType;
+    }
 }

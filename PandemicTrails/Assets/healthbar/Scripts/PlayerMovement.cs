@@ -11,11 +11,26 @@ public class PlayerMovement : MonoBehaviour
 
     public Animator animator;
 
+    Camera cam;
+
     Vector2 movement;
     void Update()
     {
       //input
 
+      if (Input.GetMouseButton(1))
+      {
+          Ray ray = cam.ScreenPointToRay(Input.mousePosition);
+          RaycastHit hit;
+
+          if(Physics.Raycast(ray, out hit))
+          {
+              Debug.Log("We hit " + hit.collider.name + " " + hit.point);
+              // move our player to what we hit
+
+              //stop focusing any object;
+          }
+      }
 
       movement.x = Input.GetAxisRaw("Horizontal");
       movement.y = Input.GetAxisRaw("Vertical");
@@ -26,7 +41,7 @@ public class PlayerMovement : MonoBehaviour
 
       if(Input.GetKeyDown(KeyCode.Space))
       {
-          
+
       }
     }
 
