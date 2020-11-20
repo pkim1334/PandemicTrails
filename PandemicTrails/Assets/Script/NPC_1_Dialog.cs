@@ -10,7 +10,6 @@ public class NPC_1_Dialog : MonoBehaviour {
     public string dialog;
     public bool playerInRange;
 
-    // Start is called before the first frame update
     void Start() {
 
     } // End of Start().
@@ -18,11 +17,11 @@ public class NPC_1_Dialog : MonoBehaviour {
     // Update is called once per frame
     void Update() {
 
-      if(Input.GetKeyDown(KeyCode.Space) && playerInRange) {
+    if(Input.GetKeyDown(KeyCode.Space) && playerInRange) {
 
         if(dialogBox.activeInHierarchy) {
 
-          dialogBox.SetActive(false);
+            dialogBox.SetActive(false);
 
         } // End of inner if-statement.
 
