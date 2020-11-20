@@ -13,261 +13,256 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2020-11-12T22:14:15.216-05:00
-  initializedAtString: 2020-11-12T15:35:14.070-05:00
-=======
-  lastUpdatedAtString: 2020-11-12T22:17:25.830-05:00
-  initializedAtString: 2020-11-12T21:06:35.459-05:00
->>>>>>> Stashed changes
+  lastUpdatedAtString: 2020-11-19T22:40:51.403-05:00
+  initializedAtString: 2020-11-19T22:30:56.182-05:00
   entries:
-  - path: PandemicTrails\Assets\New folder\Dialog_Box.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Assets\New
-      folder\Dialog_Box.png
-    projectPath: Assets\New folder\Dialog_Box.png
-    originalPath: 
-    indexStatus: 0
-<<<<<<< Updated upstream
-    workTreeStatus: 5
-  - path: PandemicTrails\Assets\New folder\Dialog_Box.png.meta
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Assets\New
-      folder\Dialog_Box.png.meta
-    projectPath: Assets\New folder\Dialog_Box.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Assets\Sam's Items.meta
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Assets\Sam's
-      Items.meta
-    projectPath: Assets\Sam's Items.meta
+  - path: PandemicTrails\Assets\DoorPixel.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\DoorPixel.png
+    projectPath: Assets\DoorPixel.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Assets\Sam's Items\Dialog_Box.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Assets\Sam's
-      Items\Dialog_Box.png
-    projectPath: Assets\Sam's Items\Dialog_Box.png
+  - path: PandemicTrails\Assets\DoorPixel.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\DoorPixel.png.meta
+    projectPath: Assets\DoorPixel.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Assets\Sam's Items\Dialog_Box.png.meta
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Assets\Sam's
-      Items\Dialog_Box.png.meta
-    projectPath: Assets\Sam's Items\Dialog_Box.png.meta
+  - path: PandemicTrails\Assets\healthbar\Scripts\PlayerMovement.cs
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\healthbar\Scripts\PlayerMovement.cs
+    projectPath: Assets\healthbar\Scripts\PlayerMovement.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PandemicTrails\Assets\Scenes\Scene - Sam.unity
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Assets\Scenes\Scene
-      - Sam.unity
-    projectPath: Assets\Scenes\Scene - Sam.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PandemicTrails\Assets\Script\NPC_1_Dialog.cs
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Assets\Script\NPC_1_Dialog.cs
-    projectPath: Assets\Script\NPC_1_Dialog.cs
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: PandemicTrails\Assets\inventory tings\Inventory Slot.prefab
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\inventory
+      tings\Inventory Slot.prefab
+    projectPath: Assets\inventory tings\Inventory Slot.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: PandemicTrails\Library\ArtifactDB
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\ArtifactDB
-=======
     workTreeStatus: 3
   - path: PandemicTrails\Assets\Inventory.cs
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\Inventory.cs
     projectPath: Assets\Inventory.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 4
+    workTreeStatus: 3
   - path: PandemicTrails\Assets\Inventory.cs.meta
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\Inventory.cs.meta
     projectPath: Assets\Inventory.cs.meta
     originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: PandemicTrails\Assets\InventorySlot.cs
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\InventorySlot.cs
+    projectPath: Assets\InventorySlot.cs
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: PandemicTrails\Assets\InventorySlot.cs.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\InventorySlot.cs.meta
+    projectPath: Assets\InventorySlot.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\InventoryUI.cs
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\InventoryUI.cs
+    projectPath: Assets\InventoryUI.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PandemicTrails\Assets\ItemPickup.cs
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\ItemPickup.cs
     projectPath: Assets\ItemPickup.cs
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
+  - path: PandemicTrails\Assets\KeyDoor.cs
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\KeyDoor.cs
+    projectPath: Assets\KeyDoor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\KeyDoor.cs.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\KeyDoor.cs.meta
+    projectPath: Assets\KeyDoor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: PandemicTrails\Assets\MinItems\Tools\Key.png.meta
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\MinItems\Tools\Key.png.meta
     projectPath: Assets\MinItems\Tools\Key.png.meta
     originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: PandemicTrails\Assets\pixil-frame-0_1.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\pixil-frame-0_1.png
+    projectPath: Assets\pixil-frame-0_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\pixil-frame-0_1.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\pixil-frame-0_1.png.meta
+    projectPath: Assets\pixil-frame-0_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\Scenes\pixil-frame-0_1.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\Scenes\pixil-frame-0_1.png
+    projectPath: Assets\Scenes\pixil-frame-0_1.png
+    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: PandemicTrails\Assets\Scenes\pixil-frame-0_1.png.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\Scenes\pixil-frame-0_1.png.meta
+    projectPath: Assets\Scenes\pixil-frame-0_1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: PandemicTrails\Assets\Scenes\Scene - Pat.unity
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\Scenes\Scene
       - Pat.unity
     projectPath: Assets\Scenes\Scene - Pat.unity
     originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: PandemicTrails\Assets\Script\Item.cs
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\Script\Item.cs
+    projectPath: Assets\Script\Item.cs
+    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: PandemicTrails\Assets\Script\Key.cs
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\Script\Key.cs
+    projectPath: Assets\Script\Key.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Assets\Script\Key.cs.meta
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\Script\Key.cs.meta
+    projectPath: Assets\Script\Key.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: PandemicTrails\Assets\TestItems\Key.asset
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\TestItems\Key.asset
     projectPath: Assets\TestItems\Key.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 4
+    workTreeStatus: 0
   - path: PandemicTrails\Assets\TestItems\Key.asset.meta
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Assets\TestItems\Key.asset.meta
     projectPath: Assets\TestItems\Key.asset.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 4
+    workTreeStatus: 0
   - path: PandemicTrails\Library\ArtifactDB
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ArtifactDB
->>>>>>> Stashed changes
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PandemicTrails\Library\Artifacts\06\060d1a437b2e4cdb402c1440754a5151
-<<<<<<< Updated upstream
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\06\060d1a437b2e4cdb402c1440754a5151
-    projectPath: Library\Artifacts\06\060d1a437b2e4cdb402c1440754a5151
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Library\Artifacts\11\1199b9e496607e411b30c68a8612956e
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\11\1199b9e496607e411b30c68a8612956e
-    projectPath: Library\Artifacts\11\1199b9e496607e411b30c68a8612956e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Library\Artifacts\14\14fa2ba357bf1e19a57cebee6bdcd2a6
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\14\14fa2ba357bf1e19a57cebee6bdcd2a6
-    projectPath: Library\Artifacts\14\14fa2ba357bf1e19a57cebee6bdcd2a6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PandemicTrails\Library\Artifacts\1d\1d49a1522691cefe7169f0a806446d1d
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\1d\1d49a1522691cefe7169f0a806446d1d
-    projectPath: Library\Artifacts\1d\1d49a1522691cefe7169f0a806446d1d
+  - path: PandemicTrails\Library\Artifacts\19\19c5cdf16b8766c8b06050cc92da151c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\19\19c5cdf16b8766c8b06050cc92da151c
+    projectPath: Library\Artifacts\19\19c5cdf16b8766c8b06050cc92da151c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: PandemicTrails\Library\Artifacts\1d\1d9176cc35965256eda2d13f5f46f510
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\1d\1d9176cc35965256eda2d13f5f46f510
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\1d\1d9176cc35965256eda2d13f5f46f510
     projectPath: Library\Artifacts\1d\1d9176cc35965256eda2d13f5f46f510
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Library\Artifacts\26\26d7e2983b590ca09df91931aee78712
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\26\26d7e2983b590ca09df91931aee78712
-    projectPath: Library\Artifacts\26\26d7e2983b590ca09df91931aee78712
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-=======
-    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\06\060d1a437b2e4cdb402c1440754a5151
-    projectPath: Library\Artifacts\06\060d1a437b2e4cdb402c1440754a5151
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Library\Artifacts\1d\1d49a1522691cefe7169f0a806446d1d
-    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\1d\1d49a1522691cefe7169f0a806446d1d
-    projectPath: Library\Artifacts\1d\1d49a1522691cefe7169f0a806446d1d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Library\Artifacts\26\26d7e2983b590ca09df91931aee78712
-    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\26\26d7e2983b590ca09df91931aee78712
-    projectPath: Library\Artifacts\26\26d7e2983b590ca09df91931aee78712
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
->>>>>>> Stashed changes
-  - path: PandemicTrails\Library\Artifacts\53\53ffb4dbd44cb250a3910f6c6036aee2
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\53\53ffb4dbd44cb250a3910f6c6036aee2
-    projectPath: Library\Artifacts\53\53ffb4dbd44cb250a3910f6c6036aee2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-<<<<<<< Updated upstream
-  - path: PandemicTrails\Library\Artifacts\55\554596005118ef7060b878d3580a4f57
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\55\554596005118ef7060b878d3580a4f57
-    projectPath: Library\Artifacts\55\554596005118ef7060b878d3580a4f57
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\1f\1fb0ed5d6b3d95d9a48851e80868b69e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\1f\1fb0ed5d6b3d95d9a48851e80868b69e
+    projectPath: Library\Artifacts\1f\1fb0ed5d6b3d95d9a48851e80868b69e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-=======
-  - path: PandemicTrails\Library\Artifacts\5a\5a5198de473c714501dc5bc68dbad024
-    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\5a\5a5198de473c714501dc5bc68dbad024
-    projectPath: Library\Artifacts\5a\5a5198de473c714501dc5bc68dbad024
+  - path: PandemicTrails\Library\Artifacts\3f\3f359cbceba2dd4c9899eec7ba241851
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\3f\3f359cbceba2dd4c9899eec7ba241851
+    projectPath: Library\Artifacts\3f\3f359cbceba2dd4c9899eec7ba241851
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Library\Artifacts\66\66207b060c66f124ea6ebc00d8b02ab9
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\42\421957a0cb414c79369041256d5be482
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\42\421957a0cb414c79369041256d5be482
+    projectPath: Library\Artifacts\42\421957a0cb414c79369041256d5be482
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\4b\4bb9ec59a9fc1f532c492494b19f0287
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\4b\4bb9ec59a9fc1f532c492494b19f0287
+    projectPath: Library\Artifacts\4b\4bb9ec59a9fc1f532c492494b19f0287
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\59\598cf7eb2c65bf8e0555961a23ec67b5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\59\598cf7eb2c65bf8e0555961a23ec67b5
+    projectPath: Library\Artifacts\59\598cf7eb2c65bf8e0555961a23ec67b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\59\59ced62bee9ee57b4a5cace4d87de5f5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\59\59ced62bee9ee57b4a5cace4d87de5f5
+    projectPath: Library\Artifacts\59\59ced62bee9ee57b4a5cace4d87de5f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\66\66207b060c66f124ea6ebc00d8b02ab9 ->
+      PandemicTrails\Library\Artifacts\8f\8f6349fd3c72bfc2865c86c8f222e82c
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\66\66207b060c66f124ea6ebc00d8b02ab9
-    projectPath: Library\Artifacts\66\66207b060c66f124ea6ebc00d8b02ab9
+      -> PandemicTrails\Library\Artifacts\8f\8f6349fd3c72bfc2865c86c8f222e82c
+    projectPath: Library\Artifacts\66\66207b060c66f124ea6ebc00d8b02ab9 -> PandemicTrails\Library\Artifacts\8f\8f6349fd3c72bfc2865c86c8f222e82c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
->>>>>>> Stashed changes
-  - path: PandemicTrails\Library\Artifacts\6e\6e6620caf870bf15db3007706cccac01
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\6e\6e6620caf870bf15db3007706cccac01
-    projectPath: Library\Artifacts\6e\6e6620caf870bf15db3007706cccac01
-    originalPath: 
-<<<<<<< Updated upstream
-    indexStatus: 0
+    indexStatus: 6
     workTreeStatus: 5
   - path: PandemicTrails\Library\Artifacts\75\75a494fcd8c0eed208652d8684f65acd
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\75\75a494fcd8c0eed208652d8684f65acd
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\75\75a494fcd8c0eed208652d8684f65acd
     projectPath: Library\Artifacts\75\75a494fcd8c0eed208652d8684f65acd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PandemicTrails\Library\Artifacts\7d\7d7164f29b19eae3a4f63bd5e3f4f56b
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\7d\7d7164f29b19eae3a4f63bd5e3f4f56b
-    projectPath: Library\Artifacts\7d\7d7164f29b19eae3a4f63bd5e3f4f56b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Library\Artifacts\8f\8fb2262101d668cba11856a67811c0da
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\8f\8fb2262101d668cba11856a67811c0da
-    projectPath: Library\Artifacts\8f\8fb2262101d668cba11856a67811c0da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PandemicTrails\Library\Artifacts\b4\b4517e65433714d62b47732766b51eaa
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\b4\b4517e65433714d62b47732766b51eaa
-    projectPath: Library\Artifacts\b4\b4517e65433714d62b47732766b51eaa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Library\Artifacts\ce\ce13da06af201f825909f203a3264dfa
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\ce\ce13da06af201f825909f203a3264dfa
-    projectPath: Library\Artifacts\ce\ce13da06af201f825909f203a3264dfa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PandemicTrails\Library\Artifacts\d5\d59100f044be511f62f423c960ad13ca
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\Artifacts\d5\d59100f044be511f62f423c960ad13ca
-    projectPath: Library\Artifacts\d5\d59100f044be511f62f423c960ad13ca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-=======
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PandemicTrails\Library\Artifacts\7d\7d7164f29b19eae3a4f63bd5e3f4f56b
-    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\7d\7d7164f29b19eae3a4f63bd5e3f4f56b
-    projectPath: Library\Artifacts\7d\7d7164f29b19eae3a4f63bd5e3f4f56b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: PandemicTrails\Library\Artifacts\87\879f086a8383ac005b2bbefa384f8373
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\87\879f086a8383ac005b2bbefa384f8373
     projectPath: Library\Artifacts\87\879f086a8383ac005b2bbefa384f8373
+    originalPath: PandemicTrails\Library\Artifacts\5a\5a5198de473c714501dc5bc68dbad024
+    indexStatus: 6
+    workTreeStatus: 0
+  - path: PandemicTrails\Library\Artifacts\8f\8fb2262101d668cba11856a67811c0da
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\8f\8fb2262101d668cba11856a67811c0da
+    projectPath: Library\Artifacts\8f\8fb2262101d668cba11856a67811c0da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: PandemicTrails\Library\Artifacts\98\987205fef398273587cf1ae3f5c78b53
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\98\987205fef398273587cf1ae3f5c78b53
+    projectPath: Library\Artifacts\98\987205fef398273587cf1ae3f5c78b53
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Library\Artifacts\8f\8f6349fd3c72bfc2865c86c8f222e82c
-    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\8f\8f6349fd3c72bfc2865c86c8f222e82c
-    projectPath: Library\Artifacts\8f\8f6349fd3c72bfc2865c86c8f222e82c
+  - path: PandemicTrails\Library\Artifacts\99\99d8e18707e92e60d153ad5f5acf1912
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\99\99d8e18707e92e60d153ad5f5acf1912
+    projectPath: Library\Artifacts\99\99d8e18707e92e60d153ad5f5acf1912
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\9c\9ca9e8b804e9300e6f6bc7fa2283f915
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\9c\9ca9e8b804e9300e6f6bc7fa2283f915
+    projectPath: Library\Artifacts\9c\9ca9e8b804e9300e6f6bc7fa2283f915
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: PandemicTrails\Library\Artifacts\a0\a0ceac95f00af36f487d80027112b150
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a0\a0ceac95f00af36f487d80027112b150
+    projectPath: Library\Artifacts\a0\a0ceac95f00af36f487d80027112b150
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: PandemicTrails\Library\Artifacts\a9\a9c521aef0717e90c4c71402bac8b777
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\a9\a9c521aef0717e90c4c71402bac8b777
+    projectPath: Library\Artifacts\a9\a9c521aef0717e90c4c71402bac8b777
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -275,930 +270,1313 @@ MonoBehaviour:
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\b8\b8755a77a5c7065fd0b591db7c4e0d51
     projectPath: Library\Artifacts\b8\b8755a77a5c7065fd0b591db7c4e0d51
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PandemicTrails\Library\Artifacts\de\de44033c794a462a4edbfa1fbc11a00f
-    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\de\de44033c794a462a4edbfa1fbc11a00f
-    projectPath: Library\Artifacts\de\de44033c794a462a4edbfa1fbc11a00f
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: PandemicTrails\Library\Artifacts\c1\c1d4c418ebf2bdf3e6a5a22a6076b4c1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c1\c1d4c418ebf2bdf3e6a5a22a6076b4c1
+    projectPath: Library\Artifacts\c1\c1d4c418ebf2bdf3e6a5a22a6076b4c1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Library\Artifacts\df\dfb9f6ad29a827f43a9f5395644a0148
-    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\df\dfb9f6ad29a827f43a9f5395644a0148
-    projectPath: Library\Artifacts\df\dfb9f6ad29a827f43a9f5395644a0148
+  - path: PandemicTrails\Library\Artifacts\c3\c317716cc02247b46973f1cc02d480f8
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\c3\c317716cc02247b46973f1cc02d480f8
+    projectPath: Library\Artifacts\c3\c317716cc02247b46973f1cc02d480f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\ce\ce13da06af201f825909f203a3264dfa
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\ce\ce13da06af201f825909f203a3264dfa
+    projectPath: Library\Artifacts\ce\ce13da06af201f825909f203a3264dfa
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: PandemicTrails\Library\Artifacts\cf\cf462f5944dd7a7f81b8f021711791c1
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\cf\cf462f5944dd7a7f81b8f021711791c1
+    projectPath: Library\Artifacts\cf\cf462f5944dd7a7f81b8f021711791c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: PandemicTrails\Library\Artifacts\d5\d59100f044be511f62f423c960ad13ca
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d5\d59100f044be511f62f423c960ad13ca
+    projectPath: Library\Artifacts\d5\d59100f044be511f62f423c960ad13ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: PandemicTrails\Library\Artifacts\d5\d5974ad0a5d9fba9395dbfcd39ec97f5
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\d5\d5974ad0a5d9fba9395dbfcd39ec97f5
+    projectPath: Library\Artifacts\d5\d5974ad0a5d9fba9395dbfcd39ec97f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: PandemicTrails\Library\Artifacts\de\de44033c794a462a4edbfa1fbc11a00f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\de\de44033c794a462a4edbfa1fbc11a00f
+    projectPath: Library\Artifacts\de\de44033c794a462a4edbfa1fbc11a00f
+    originalPath: PandemicTrails\Library\Artifacts\df\dfb9f6ad29a827f43a9f5395644a0148
+    indexStatus: 6
+    workTreeStatus: 0
+  - path: PandemicTrails\Library\Artifacts\e6\e6005504a954d0a77df1079b6e1bc40e
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\e6\e6005504a954d0a77df1079b6e1bc40e
+    projectPath: Library\Artifacts\e6\e6005504a954d0a77df1079b6e1bc40e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f3\f3b700b73791f980f42b6a2f7e86af30
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f3\f3b700b73791f980f42b6a2f7e86af30
+    projectPath: Library\Artifacts\f3\f3b700b73791f980f42b6a2f7e86af30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Library\Artifacts\f4\f4e725e393af010e50afa6e0f05107f4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Artifacts\f4\f4e725e393af010e50afa6e0f05107f4
+    projectPath: Library\Artifacts\f4\f4e725e393af010e50afa6e0f05107f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: PandemicTrails\Library\Collab\CollabSnapshot_a33b09b1-48a7-4a83-a179-89804dd8b1c5.txt
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\Collab\CollabSnapshot_a33b09b1-48a7-4a83-a179-89804dd8b1c5.txt
     projectPath: Library\Collab\CollabSnapshot_a33b09b1-48a7-4a83-a179-89804dd8b1c5.txt
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
->>>>>>> Stashed changes
   - path: PandemicTrails\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
   - path: PandemicTrails\Library\EditorInstance.json
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\EditorInstance.json
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: PandemicTrails\Library\expandedItems
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: PandemicTrails\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
   - path: PandemicTrails\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 3
     workTreeStatus: 3
   - path: PandemicTrails\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
   - path: PandemicTrails\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
   - path: PandemicTrails\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
-<<<<<<< Updated upstream
-  - path: PandemicTrails\Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-=======
   - path: PandemicTrails\Library\InspectorExpandedItems.asset
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
->>>>>>> Stashed changes
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Documentation~\images\example.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Documentation~\images\example.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Documentation~\images\example.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Documentation~\images\example.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\added-file-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\back-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-mine-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\choose-remote-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\clear-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-available-changes-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-done-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-error-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-incoming-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-offline-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-progress-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\collaborate-warning-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\conflicted-file-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\deleted-file-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\diff-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\edited-file-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\loading-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-conflicts-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\merge-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\more-vert-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\moved-file-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\publish-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\revert-asset-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\search-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\show-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-error-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-info-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\status-warning-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-dark.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-dark.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-dark.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-dark.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-dark@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-dark@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-dark@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-dark@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-light.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-light.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-light.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-light.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-light@2x.png
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-light@2x.png
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-light@2x.png
     projectPath: Library\PackageCache\com.unity.collab-proxy@1.3.9\Editor\Assets\Icons\undo-light@2x.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< Updated upstream
   - path: PandemicTrails\Library\PackageCache\com.unity.ide.rider@1.2.1\package.json
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.ide.rider@1.2.1\package.json
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageCache\com.unity.ide.rider@1.2.1\package.json
     projectPath: Library\PackageCache\com.unity.ide.rider@1.2.1\package.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\PackageManager\ProjectCache.bin
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\PackageManager\ProjectCache.bin
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\PackageManager\ProjectCache.bin
     projectPath: Library\PackageManager\ProjectCache.bin
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-=======
->>>>>>> Stashed changes
   - path: PandemicTrails\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< Updated upstream
   - path: PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-=======
->>>>>>> Stashed changes
+  - path: PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\PsdPlugin.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\PsdPlugin.dll
+    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.Mathematics.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.Mathematics.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PandemicTrails\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PandemicTrails\Library\SourceAssetDB
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\SourceAssetDB
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< Updated upstream
-  - path: PandemicTrails\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+  - path: PandemicTrails\Library\StateCache\MainStageHierarchy\7a\7aab3d978c962868eccadc4c12bb5c81.json
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\StateCache\MainStageHierarchy\7a\7aab3d978c962868eccadc4c12bb5c81.json
+    projectPath: Library\StateCache\MainStageHierarchy\7a\7aab3d978c962868eccadc4c12bb5c81.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PandemicTrails\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PandemicTrails\ProjectSettings\TagManager.asset
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PandemicTrails\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-=======
+    indexStatus: 1
+    workTreeStatus: 1
   - path: PandemicTrails\Library\StateCache\SceneView\4c\4c3d765944ed357b9d39cdaf488491f8.json
     fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\StateCache\SceneView\4c\4c3d765944ed357b9d39cdaf488491f8.json
     projectPath: Library\StateCache\SceneView\4c\4c3d765944ed357b9d39cdaf488491f8.json
->>>>>>> Stashed changes
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: PandemicTrails\Library\StateCache\SceneView\78\78f5cbbd1d33da15dd167213f1208f57.json
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Library\StateCache\SceneView\78\78f5cbbd1d33da15dd167213f1208f57.json
+    projectPath: Library\StateCache\SceneView\78\78f5cbbd1d33da15dd167213f1208f57.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: PandemicTrails\Temp\UnityLockfile
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityLockfile
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Temp\UnityTempFile-33951281f0454d642b1a408baf56a049
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-33951281f0454d642b1a408baf56a049
-    projectPath: Temp\UnityTempFile-33951281f0454d642b1a408baf56a049
+  - path: PandemicTrails\Temp\UnityTempFile-068cc931510fb5f4fa807d2a4cff1051
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-068cc931510fb5f4fa807d2a4cff1051
+    projectPath: Temp\UnityTempFile-068cc931510fb5f4fa807d2a4cff1051
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Temp\UnityTempFile-4f8f68c942cb6e94a80609bc9883201a
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-4f8f68c942cb6e94a80609bc9883201a
-    projectPath: Temp\UnityTempFile-4f8f68c942cb6e94a80609bc9883201a
+  - path: PandemicTrails\Temp\UnityTempFile-06ad50d81501c1d42b7c8d2a7aed8b82
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-06ad50d81501c1d42b7c8d2a7aed8b82
+    projectPath: Temp\UnityTempFile-06ad50d81501c1d42b7c8d2a7aed8b82
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Temp\UnityTempFile-627915ae0daded44e86ce003eda8c146
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-627915ae0daded44e86ce003eda8c146
-    projectPath: Temp\UnityTempFile-627915ae0daded44e86ce003eda8c146
+  - path: PandemicTrails\Temp\UnityTempFile-1abca9b038e76634bbd46221419722be
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-1abca9b038e76634bbd46221419722be
+    projectPath: Temp\UnityTempFile-1abca9b038e76634bbd46221419722be
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Temp\UnityTempFile-6eb5807ffb91d2e4a8397d4161979ee3
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-6eb5807ffb91d2e4a8397d4161979ee3
-    projectPath: Temp\UnityTempFile-6eb5807ffb91d2e4a8397d4161979ee3
+  - path: PandemicTrails\Temp\UnityTempFile-2147a6e05bb703546967ec127297ee17
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-2147a6e05bb703546967ec127297ee17
+    projectPath: Temp\UnityTempFile-2147a6e05bb703546967ec127297ee17
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Temp\UnityTempFile-8e4b9eca8532cd74b9a17163644cceea
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-8e4b9eca8532cd74b9a17163644cceea
-    projectPath: Temp\UnityTempFile-8e4b9eca8532cd74b9a17163644cceea
+  - path: PandemicTrails\Temp\UnityTempFile-21d596dbfb00419438022a7e0993618a
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-21d596dbfb00419438022a7e0993618a
+    projectPath: Temp\UnityTempFile-21d596dbfb00419438022a7e0993618a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Temp\UnityTempFile-981362747b95a8a42ac8aa2e243c90be
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-981362747b95a8a42ac8aa2e243c90be
-    projectPath: Temp\UnityTempFile-981362747b95a8a42ac8aa2e243c90be
+  - path: PandemicTrails\Temp\UnityTempFile-2bdaf4a06bd6f90489c2cfef4eba9e05
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-2bdaf4a06bd6f90489c2cfef4eba9e05
+    projectPath: Temp\UnityTempFile-2bdaf4a06bd6f90489c2cfef4eba9e05
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Temp\UnityTempFile-a55f875a0f4e95a43bf1a2f29867f8c8
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-a55f875a0f4e95a43bf1a2f29867f8c8
-    projectPath: Temp\UnityTempFile-a55f875a0f4e95a43bf1a2f29867f8c8
+  - path: PandemicTrails\Temp\UnityTempFile-30430eeea1fb08741ad1bcdc3eeef514
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-30430eeea1fb08741ad1bcdc3eeef514
+    projectPath: Temp\UnityTempFile-30430eeea1fb08741ad1bcdc3eeef514
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Temp\UnityTempFile-b0772d4f5c555da4f988ce118ef72ebd
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-b0772d4f5c555da4f988ce118ef72ebd
-    projectPath: Temp\UnityTempFile-b0772d4f5c555da4f988ce118ef72ebd
+  - path: PandemicTrails\Temp\UnityTempFile-321476f99c4dfd9429398b2f405f535c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-321476f99c4dfd9429398b2f405f535c
+    projectPath: Temp\UnityTempFile-321476f99c4dfd9429398b2f405f535c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PandemicTrails\Temp\UnityTempFile-d7b98110adc65f74593bfcd93b641184
-    fullPath: C:\Users\computer realm\Documents\Software Engineering\PandemicTrails\PandemicTrails\Temp\UnityTempFile-d7b98110adc65f74593bfcd93b641184
-    projectPath: Temp\UnityTempFile-d7b98110adc65f74593bfcd93b641184
+  - path: PandemicTrails\Temp\UnityTempFile-3f4ca065b4606774a959d8b49ee1a6a7
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-3f4ca065b4606774a959d8b49ee1a6a7
+    projectPath: Temp\UnityTempFile-3f4ca065b4606774a959d8b49ee1a6a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-3fa4cc3917d5e50439c4ae9354823f42
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-3fa4cc3917d5e50439c4ae9354823f42
+    projectPath: Temp\UnityTempFile-3fa4cc3917d5e50439c4ae9354823f42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-45310a1bda317164397c61d11b035eed
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-45310a1bda317164397c61d11b035eed
+    projectPath: Temp\UnityTempFile-45310a1bda317164397c61d11b035eed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-55b01fbb5afdac044bf79745dcc10f9b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-55b01fbb5afdac044bf79745dcc10f9b
+    projectPath: Temp\UnityTempFile-55b01fbb5afdac044bf79745dcc10f9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-5b113b96f9e714d45939968cb54ab6ba
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-5b113b96f9e714d45939968cb54ab6ba
+    projectPath: Temp\UnityTempFile-5b113b96f9e714d45939968cb54ab6ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-610cceaa301fd834d929bbda8898a6cd
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-610cceaa301fd834d929bbda8898a6cd
+    projectPath: Temp\UnityTempFile-610cceaa301fd834d929bbda8898a6cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-623e24ea0964f7c44a05ce0f58119315
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-623e24ea0964f7c44a05ce0f58119315
+    projectPath: Temp\UnityTempFile-623e24ea0964f7c44a05ce0f58119315
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-63e18c40ee75b7d468b9b615be72e0f8
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-63e18c40ee75b7d468b9b615be72e0f8
+    projectPath: Temp\UnityTempFile-63e18c40ee75b7d468b9b615be72e0f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-6b1d9c5ce3707664aa9c70ef512931c4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-6b1d9c5ce3707664aa9c70ef512931c4
+    projectPath: Temp\UnityTempFile-6b1d9c5ce3707664aa9c70ef512931c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-6b98d2723a563a5439faf3ec5fab4d9b
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-6b98d2723a563a5439faf3ec5fab4d9b
+    projectPath: Temp\UnityTempFile-6b98d2723a563a5439faf3ec5fab4d9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-718edfea18760cc4489a58051910d989
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-718edfea18760cc4489a58051910d989
+    projectPath: Temp\UnityTempFile-718edfea18760cc4489a58051910d989
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-75b1eb5576216ca4991b4d6f5e344225
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-75b1eb5576216ca4991b4d6f5e344225
+    projectPath: Temp\UnityTempFile-75b1eb5576216ca4991b4d6f5e344225
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-7c921302ea90b9047a2ede6186815a4c
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-7c921302ea90b9047a2ede6186815a4c
+    projectPath: Temp\UnityTempFile-7c921302ea90b9047a2ede6186815a4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-7cefa653574376844b4644c0f47e7a24
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-7cefa653574376844b4644c0f47e7a24
+    projectPath: Temp\UnityTempFile-7cefa653574376844b4644c0f47e7a24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-805fe53109b483e43b9b711dfce89e54
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-805fe53109b483e43b9b711dfce89e54
+    projectPath: Temp\UnityTempFile-805fe53109b483e43b9b711dfce89e54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-8703dd1a544b7234e9afc986863fde52
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-8703dd1a544b7234e9afc986863fde52
+    projectPath: Temp\UnityTempFile-8703dd1a544b7234e9afc986863fde52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-8c8d624a3bf40f54d92dcfe5a76b8168
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-8c8d624a3bf40f54d92dcfe5a76b8168
+    projectPath: Temp\UnityTempFile-8c8d624a3bf40f54d92dcfe5a76b8168
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-8c9d030fab668794f87caf4cf0a708f7
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-8c9d030fab668794f87caf4cf0a708f7
+    projectPath: Temp\UnityTempFile-8c9d030fab668794f87caf4cf0a708f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-912c3010f92bebf4abac4388cadfe079
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-912c3010f92bebf4abac4388cadfe079
+    projectPath: Temp\UnityTempFile-912c3010f92bebf4abac4388cadfe079
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-9cdfe2ac24497ce499c9c1cf9fb2aec4
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-9cdfe2ac24497ce499c9c1cf9fb2aec4
+    projectPath: Temp\UnityTempFile-9cdfe2ac24497ce499c9c1cf9fb2aec4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-b381ce8c792293b4d9b65b21844fc00f
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-b381ce8c792293b4d9b65b21844fc00f
+    projectPath: Temp\UnityTempFile-b381ce8c792293b4d9b65b21844fc00f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-b60e70da3f60d8044b169f013a2cdb04
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-b60e70da3f60d8044b169f013a2cdb04
+    projectPath: Temp\UnityTempFile-b60e70da3f60d8044b169f013a2cdb04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-c5cf6426733f8b54f9e72dc06c5eb041
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-c5cf6426733f8b54f9e72dc06c5eb041
+    projectPath: Temp\UnityTempFile-c5cf6426733f8b54f9e72dc06c5eb041
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-e531d959984da784ab3b79944b060e28
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-e531d959984da784ab3b79944b060e28
+    projectPath: Temp\UnityTempFile-e531d959984da784ab3b79944b060e28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-e784f944d7f8af341a01a064b072cb53
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-e784f944d7f8af341a01a064b072cb53
+    projectPath: Temp\UnityTempFile-e784f944d7f8af341a01a064b072cb53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PandemicTrails\Temp\UnityTempFile-f9e895f5b59750d44951ecb1961637dd
+    fullPath: C:\Users\Patrick Kim\Documents\PandemicTrails\PandemicTrails\Temp\UnityTempFile-f9e895f5b59750d44951ecb1961637dd
+    projectPath: Temp\UnityTempFile-f9e895f5b59750d44951ecb1961637dd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
