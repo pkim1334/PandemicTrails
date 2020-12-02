@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class KeyDoor : MonoBehaviour
 {
-      [SerializeField] private Item.ItemType keyType;
+      private Item keyType;
 
-      public Item.ItemType GetKeyType(){
+      public Item GetKeyType(){
          return keyType;
       }
+
       public void OpenDoor(){
          gameObject.SetActive(false);
       }

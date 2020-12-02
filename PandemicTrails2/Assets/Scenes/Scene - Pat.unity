@@ -2978,6 +2978,7 @@ GameObject:
   - component: {fileID: 498257904}
   - component: {fileID: 498257903}
   - component: {fileID: 498257905}
+  - component: {fileID: 498257906}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -3009,7 +3010,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.84, y: 1.04}
+  m_Size: {x: 1.84, y: 1.71}
   m_EdgeRadius: 0
 --- !u!4 &498257904
 Transform:
@@ -3040,7 +3041,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e137d43fd1b0d1040ab6d853b14d4873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  keyType: 0
+--- !u!114 &498257906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 498257902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c08cafdf15a26be4f93d9ab0996afe01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  itemType: key
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -3861,6 +3875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 658bfd487ce58484d9e28f2e355d4e8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  itemsParent: {fileID: 1591565559}
 --- !u!114 &734747019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9338,6 +9353,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1591565559}
     m_Modifications:
+    - target: {fileID: 6629384441731819013, guid: fad336630e4ec154a9ab519a2af26967,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6629384441731819013, guid: fad336630e4ec154a9ab519a2af26967,
+        type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6629384441731819013, guid: fad336630e4ec154a9ab519a2af26967,
+        type: 3}
+      propertyPath: m_UseSpriteMesh
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6629384441731819013, guid: fad336630e4ec154a9ab519a2af26967,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6629384441731819013, guid: fad336630e4ec154a9ab519a2af26967,
+        type: 3}
+      propertyPath: m_RaycastTarget
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6629384441731819258, guid: fad336630e4ec154a9ab519a2af26967,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6629384441731819258, guid: fad336630e4ec154a9ab519a2af26967,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6629384442018356074, guid: fad336630e4ec154a9ab519a2af26967,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6629384442468067648, guid: fad336630e4ec154a9ab519a2af26967,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13483,7 +13538,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   icon: {fileID: 0}
-  itemType: 0
+  itemType: key
 --- !u!58 &1948808485
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -13753,7 +13808,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   space: 20
-  itemsList: 
+  itemsList: []
 --- !u!1001 &1962203251
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -9,7 +9,7 @@ public class Inventory : MonoBehaviour
 
     public static Inventory instance;
 
-    public List<Item.ItemType> itemsList;
+    public List<Item> itemsList;
 
 
     void Awake()
@@ -19,7 +19,7 @@ public class Inventory : MonoBehaviour
             return;
         }
 
-        itemsList = new List<Item.ItemType>();
+        itemsList = new List<Item>();
         instance = this;
     }
 
@@ -28,7 +28,7 @@ public class Inventory : MonoBehaviour
     public OnItemChanged onItemChangedCallBack;
 
 
-    public bool Add(Item.ItemType item)
+    public bool Add(Item item)
     {
         if(itemsList.Count >= space)
             {
@@ -36,7 +36,7 @@ public class Inventory : MonoBehaviour
                 return false;
             }
         itemsList.Add(item);
-        Debug.Log("Picked up: " + item);
+        Debug.Log("Picked up: " + item.GetItemType());
 
         if (onItemChangedCallBack != null){
           onItemChangedCallBack.Invoke();
@@ -47,7 +47,7 @@ public class Inventory : MonoBehaviour
 
     }
 
-    public void Remove(Item.ItemType item)
+    public void Remove(Item item)
     {
         itemsList.Remove(item);
 
@@ -56,14 +56,19 @@ public class Inventory : MonoBehaviour
         }
     }
 
-    public bool ContainsKey(Item.ItemType test){
-       return itemsList.Contains(test);
+    public bool ContainsKey(Item test){
+        if (test.GetItemType().Equals("key")){
+          return true;
+        }else {
+          return false;
+        }
+       //return itemsList.Contains(test);
      }
 
     private void OnTriggerEnter2D(Collider2D collision){
        Item item = collision.GetComponent<Item>(); //Error on this row
        if (item != null){
-          Add(item.GetItemType());
+          Add(item);
           Destroy(item.gameObject);
        }
        KeyDoor keyDoor = collision.GetComponent<KeyDoor>();

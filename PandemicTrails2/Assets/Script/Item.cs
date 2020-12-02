@@ -5,12 +5,16 @@ using UnityEngine;
 public class Item : MonoBehaviour
 {
     public Sprite icon = null;
+    /*
     [SerializeField] private ItemType itemType;
     public enum ItemType{
       key,
       money
     }
-    public ItemType GetItemType(){
+    */
+    public string itemType;
+
+    public string GetItemType(){
         return itemType;
     }
 }
