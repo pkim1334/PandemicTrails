@@ -66,16 +66,18 @@ public class Inventory : MonoBehaviour
      }
 
     private void OnTriggerEnter2D(Collider2D collision){
-       Item item = collision.GetComponent<Item>(); //Error on this row
-       if (item != null){
-          Add(item);
-          Destroy(item.gameObject);
-       }
-       KeyDoor keyDoor = collision.GetComponent<KeyDoor>();
-       if(keyDoor!=null){
-          if(ContainsKey(keyDoor.GetKeyType())){
-             keyDoor.OpenDoor();
-          }
-       }
+      Item item = collision.GetComponent<Item>(); //Error on this row
+      if (item != null){
+         Add(item);
+         Destroy(item.gameObject);
+      }
+      KeyDoor keyDoor = collision.GetComponent<KeyDoor>();
+      if(keyDoor!=null){
+         if(ContainsKey(keyDoor.GetKeyType())){
+            keyDoor.OpenDoor();
+         }
+      }
+
+
     }
 }
